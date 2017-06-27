@@ -36,6 +36,13 @@
 - [Hackathon.io](http://www.hackathon.io/events)
 - [Kaggle (Data science competitions)](https://www.kaggle.com/competitions)
 
+## Localized
+- [Eventbrite (Search hackathons or game jams)](https://www.eventbrite.com/)
+- [NYHackathons](http://nyhackathons.com/)
+- [MonthlyMusicHackathon](http://monthlymusichackathon.org/)
+- [STUPID SHIT NO ONE NEEDS & TERRIBLE IDEAS HACKATHON](http://www.stupidhackathon.com/)
+  - Can usually be found on eventbrite, takes place in a handful of cities
+
 # Misc/More Links
 - [Job Puzzles Repo](https://github.com/SITZ/JobPuzzles)
 - [/r/learnprogramming FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_where_can_i_find_practice_exercises_and_project_ideas.3F)
