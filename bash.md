@@ -22,3 +22,4 @@
 - [HackerRank Bash](https://www.hackerrank.com/domains/shell/bash)
 - [Advanced Bash scripting guide exercises](http://tldp.org/LDP/abs/html/exercises.html)
 - [LeetCode Problems](https://leetcode.com/problemset/shell/)
+- [CodeFights DevOps challenges](https://codefights.com/challenges)
