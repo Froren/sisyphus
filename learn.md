@@ -42,8 +42,7 @@
 - [7 sites to help you focus](https://medium.com/statuscode/7-sites-to-help-you-relax-and-focus-whilst-programming-16057afe90da)
 - [MyBridge](https://www.mybridge.co/skills/javascript)
 - [StackShare](https://stackshare.io/)
-
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
-- [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)]
+- [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
