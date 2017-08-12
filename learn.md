@@ -22,6 +22,7 @@
 - [one-click-to-be-a-pro](https://github.com/vic317yeh/One-Click-to-Be-Pro)
 - [learn-anything](https://github.com/nikitavoloboev/learn-anything)
 - [awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits)
+- [(list of practical) projects](https://github.com/karan/Projects)
 
 ## General websites
 - [/r/learnprogramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_other_resources)
@@ -46,3 +47,4 @@
 - [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
+- [post-mortems](https://github.com/danluu/post-mortems)
