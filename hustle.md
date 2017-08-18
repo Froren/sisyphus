@@ -45,6 +45,8 @@
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 - [Data structures and algos in Java](https://github.com/donbeave/interview)
 - [random person's repo I starred with C++ examples](https://github.com/liwei606/interview)
+- [InterviewCake](https://www.interviewcake.com/coding-interview-tips)
+- [interviewing.io](https://interviewing.io/)
 
 ### Misc
 
