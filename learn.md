@@ -12,6 +12,7 @@
 - [KhanAcademy](https://www.khanacademy.org/)
 - [Cybrary](https://www.cybrary.it/)
 - [OpenEducationConsortium](http://www.oeconsortium.org/)
+- [Treehouse](https://teamtreehouse.com/)
 
 ## Github Repos
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
