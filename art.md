@@ -16,6 +16,7 @@
 - [Codeology](https://github.com/project-codeology/codeology)
 - [eex](https://github.com/tofuness/eex)
 - [awk-raycaster](https://github.com/TheMozg/awk-raycaster)
+- [svg can do that?](http://slides.com/sdrasner/svg-can-do-that#/)
 
 ------
 
