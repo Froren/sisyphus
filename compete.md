@@ -1,5 +1,6 @@
 # Competitions/Challenges
 
+- [4clojure](http://www.4clojure.com/)
 - [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 - [CareerCup](https://www.careercup.com/)
 - [CodeAbbey](http://www.codeabbey.com/index/task_list)
