@@ -53,3 +53,4 @@
 - [Awesome-educational-games repo](https://github.com/vinkla/awesome-educational-games)
 - [RosettaCode](https://rosettacode.org/wiki/Rosetta_Code)
 - [interative-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
+- [Exercism.io](http://exercism.io/)
