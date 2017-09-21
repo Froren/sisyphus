@@ -24,6 +24,7 @@
 - [learn-anything](https://github.com/nikitavoloboev/learn-anything)
 - [awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits)
 - [(list of practical) projects](https://github.com/karan/Projects)
+- [open-source-cs-degree](https://github.com/mvillaloboz/open-source-cs-degree)
 
 ## General websites
 - [/r/learnprogramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_other_resources)
