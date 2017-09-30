@@ -5,6 +5,14 @@
 
 ------
 
+### Game Jams
+
+- [js13kgames](http://js13kgames.com/)
+- [Ludum Dare](http://ludumdare.com/compo/)
+------
+
+### Repos
+
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 - [awesome-generative-art](https://github.com/kosmos/awesome-generative-art)
 - [PortfolioExamples](https://github.com/dargaCode/PortfolioExamples)
