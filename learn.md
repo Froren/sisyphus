@@ -50,3 +50,5 @@
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 - [post-mortems](https://github.com/danluu/post-mortems)
+
+- [git-logs newsletter](http://www.gitlogs.com/)
