@@ -27,6 +27,7 @@
 - [svg can do that?](http://slides.com/sdrasner/svg-can-do-that#/)
 - [UberViz](https://github.com/OpenDAWN/UberViz)
 - [pywonderland](https://github.com/neozhaoliang/pywonderland)
+- [People-You-Should-Follow-on-CodePen](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen)
 
 ------
 
