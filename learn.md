@@ -13,6 +13,7 @@
 - [Cybrary](https://www.cybrary.it/)
 - [OpenEducationConsortium](http://www.oeconsortium.org/)
 - [Treehouse](https://teamtreehouse.com/)
+- [Class Central](https://www.class-central.com/)
 
 ## Github Repos
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
