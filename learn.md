@@ -52,3 +52,4 @@
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 - [post-mortems](https://github.com/danluu/post-mortems)
 - [git-logs newsletter](http://www.gitlogs.com/)
+- [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)
