@@ -1,6 +1,6 @@
 # Random software that I would otherwise potentially forget about entirely
 
-- [Nocking middleware](https://www.charlesproxy.com/download/)
+- [Charles proxy](https://www.charlesproxy.com/download/)
 
 # Web
 - [Draw.io](https://www.draw.io/)
