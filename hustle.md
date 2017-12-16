@@ -26,6 +26,7 @@
 
 ### Agencies
 
+- [A-List](https://alist.co)
 - [Hired](https://hired.com/)
 - [TripleByte](https://triplebyte.com/)
 - [CodeForCash](https://codefor.cash/)
