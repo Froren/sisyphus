@@ -14,6 +14,7 @@
 - [OpenEducationConsortium](http://www.oeconsortium.org/)
 - [Treehouse](https://teamtreehouse.com/)
 - [Class Central](https://www.class-central.com/)
+- [Brilliant](https://brilliant.org/)
 
 ## Github Repos
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
