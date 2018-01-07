@@ -21,6 +21,7 @@
 - [HackerEarth](https://www.hackerearth.com/challenges/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Interactive Coding Challenges Repo](https://github.com/donnemartin/interactive-coding-challenges)
+- [InterviewBit](https://www.interviewbit.com/)
 - [LeetCode](https://leetcode.com/)
 - [ProgrammingPraxis (Scheme exercises)](https://programmingpraxis.com/contents/chron/)
 - [Programmr](http://www.programmr.com/exercises)
