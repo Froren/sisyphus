@@ -63,6 +63,7 @@
 - [IndieHackers](https://www.indiehackers.com/)
 - [StarterStory](https://www.starterstory.com/)
 - [Shopify Blog](https://www.shopify.com/blog/topics/case-studies)
+- [Collapsed](https://collapsed.co/)
 - [20 best business podcasts of 2015...](https://www.inc.com/travis-wright/19-best-business-podcasts-of-2015-to-stuff-yourself-with-during-your-holiday-tra.html)
 
 ### Misc
