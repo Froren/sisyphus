@@ -37,6 +37,7 @@
 
 ### Interviews
 
+- [learn](https://github.com/Froren/sisyphus/blob/master/learn.md); [compete](https://github.com/Froren/sisyphus/blob/master/compete.md)
 - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - [JobPuzzles](https://github.com/SITZ/JobPuzzles)
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
