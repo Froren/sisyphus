@@ -24,6 +24,9 @@
 - [Jobspresso](https://jobspresso.co/)
 - [AuthenticJobs](https://authenticjobs.com/#job-types=7,6,1,5,2,4,3&remote=true&skills=)
 
+#### Working Remotely
+- [NomadList](https://nomadlist.com/) - also lists working locations within a given city
+
 ### Agencies
 
 - [A-List](https://alist.co)
