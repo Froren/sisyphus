@@ -35,3 +35,10 @@
 
 - [pixi.js](https://github.com/pixijs/pixi.js)
 - [phaser](https://github.com/photonstorm/phaser)
+
+------
+
+##### Misc
+
+- [R2D3](http://www.r2d3.us/)
+- Check codepen, stars
