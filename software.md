@@ -1,6 +1,7 @@
 # Random software that I would otherwise potentially forget about entirely
 
 - [Charles proxy](https://www.charlesproxy.com/download/)
+- [Scapple](https://www.literatureandlatte.com/scapple/overview)
 
 # Web
 - [Draw.io](https://www.draw.io/)
