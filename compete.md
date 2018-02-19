@@ -2,6 +2,7 @@
 
 - [4clojure](http://www.4clojure.com/)
 - [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
+- [AIGaming](https://www.aigaming.com/)
 - [CareerCup](https://www.careercup.com/)
 - [CodeAbbey](http://www.codeabbey.com/index/task_list)
 - [CodeAcademy](https://www.codecademy.com/)
