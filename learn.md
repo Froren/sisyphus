@@ -17,6 +17,7 @@
 - [Brilliant](https://brilliant.org/)
 
 ## Github Repos
+- [my stars](https://github.com/Froren?tab=stars)
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
 - [Open Source Society - Computer Science](https://github.com/open-source-society/computer-science)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
@@ -27,6 +28,9 @@
 - [awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits)
 - [(list of practical) projects](https://github.com/karan/Projects)
 - [open-source-cs-degree](https://github.com/mvillaloboz/open-source-cs-degree)
+- [what-happens-when](https://github.com/alex/what-happens-when)
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 
 ## General websites
 - [/r/learnprogramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_other_resources)
