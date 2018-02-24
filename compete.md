@@ -23,6 +23,7 @@
 - [HackerRank](https://www.hackerrank.com/)
 - [Interactive Coding Challenges Repo](https://github.com/donnemartin/interactive-coding-challenges)
 - [InterviewBit](https://www.interviewbit.com/)
+- [Kattis](https://open.kattis.com/)
 - [LeetCode](https://leetcode.com/)
 - [ProgrammingPraxis (Scheme exercises)](https://programmingpraxis.com/contents/chron/)
 - [Programmr](http://www.programmr.com/exercises)
@@ -32,6 +33,7 @@
 - [Sphere Online Judge](http://www.spoj.com/)
 - [StackExchange CodeGolf](https://codegolf.stackexchange.com/)
 - [TopCoder](https://www.topcoder.com/challenges/?pageIndex=1)
+- [VirtualJudge](https://vjudge.net/)
 
 # Hackathons
 - [ChallengeRocket](https://challengerocket.com/list.html)
