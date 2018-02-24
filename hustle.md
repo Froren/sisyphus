@@ -64,7 +64,7 @@
 - [interviewing.io](https://interviewing.io/)
 - [Pramp](https://www.pramp.com)
 - [RefDash](https://refdash.com/)
-- [Gainlo](http://www.gainlo.co/)
+- [Gainlo](http://www.gainlo.co/) - charges money, what a rip-off
 
 ### Entrepreneurship
 
