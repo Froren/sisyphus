@@ -38,6 +38,7 @@
 - [CodeAcademy](https://www.codecademy.com/)
 - [Teach yourself CS](https://teachyourselfcs.com/)
 - [DevFreeBooks](https://devfreebooks.github.io/)
+- [Google TechDev Guide](https://techdevguide.withgoogle.com/)
 
 #### CS Degree breakdowns
 - [InfoWorld](http://www.infoworld.com/article/2614635/application-development/-200k-for-a-computer-science-degree--or-these-free-online-classes-.html)
