@@ -11,3 +11,5 @@
 - [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)
 - [Notion](https://www.notion.so/)
 - [HemingwayApp](http://hemingwayapp.com/)
+- [How Generative Music Works](https://teropa.info/loop/#/title)
+  - [MusicMouse](https://teropa.info/musicmouse/)
