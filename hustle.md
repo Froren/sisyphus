@@ -63,7 +63,7 @@
 
 #### Anonymous practice interviews
 
-- [interviewing.io](https://interviewing.io/) - Very high bar, they're always DP problems. People are also pretty harsh, moral takes a hit but at least it's humbling. Well-polished, gives you a chance to connect after if you both want to.
+- [interviewing.io](https://interviewing.io/) - Very high bar, they're always DP problems. People are also pretty harsh, morale takes a hit but at least it's humbling. Well-polished, gives you a chance to connect after if you both want to.
 - [Pramp](https://www.pramp.com) - Low bar, friendly people. Doesn't give you a chance afterwards to connect though, make sure you connect while in your meeting.
 - [RefDash](https://refdash.com/)
 - [Gainlo](http://www.gainlo.co/) - charges money, what a rip-off
