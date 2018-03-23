@@ -25,6 +25,7 @@
 - [InterviewBit](https://www.interviewbit.com/)
 - [Kattis](https://open.kattis.com/)
 - [LeetCode](https://leetcode.com/)
+- [PEG Oneline Judge](https://wcipeg.com/main)
 - [ProgrammingPraxis (Scheme exercises)](https://programmingpraxis.com/contents/chron/)
 - [Programmr](http://www.programmr.com/exercises)
 - [ProjectEuler](https://projecteuler.net/)
