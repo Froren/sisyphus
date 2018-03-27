@@ -38,6 +38,15 @@
 
 ------
 
+### UX/Landing Pages
+
+-[Pages.xyz](https://www.pages.xyz/)
+-[Lapa.ninja](https://www.lapa.ninja/)
+-[Land-book](https://land-book.com/)
+
+
+------
+
 ##### Misc
 
 - [R2D3](http://www.r2d3.us/)
