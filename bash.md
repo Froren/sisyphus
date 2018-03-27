@@ -8,6 +8,7 @@
 - [The art of command line](https://github.com/jlevy/the-art-of-command-line)
 - [Terminals are sexy](https://github.com/k4m4/terminals-are-sexy)
 - [Explainshell utility](https://github.com/idank/explainshell)
+- [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing)
 
 
 ##### Others
