@@ -40,9 +40,9 @@
 
 ### UX/Landing Pages
 
--[Pages.xyz](https://www.pages.xyz/)
--[Lapa.ninja](https://www.lapa.ninja/)
--[Land-book](https://land-book.com/)
+- [Pages.xyz](https://www.pages.xyz/)
+- [Lapa.ninja](https://www.lapa.ninja/)
+- [Land-book](https://land-book.com/)
 
 
 ------
