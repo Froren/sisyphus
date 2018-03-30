@@ -31,6 +31,12 @@
 - [what-happens-when](https://github.com/alex/what-happens-when)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+- [useful-java-links](https://github.com/Vedenin/useful-java-links)
+- [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
+- [awesome-pentest](https://github.com/enaqx/awesome-pentest)
+- [security](https://github.com/xapax/security)
+- [offensiveinterview](https://github.com/WebBreacher/offensiveinterview)
 
 ## General websites
 - [/r/learnprogramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_other_resources)
