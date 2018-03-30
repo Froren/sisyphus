@@ -61,6 +61,8 @@
 - [FireCode](https://www.firecode.io/)
 - [ByteByByte](https://www.byte-by-byte.com/coding-interview-questions/all/)
 - [List of challenge problems](http://www.techiedelight.com/list-of-problems/)
+- [LeetCode solutions](https://github.com/kamyu104/LeetCode)
+- [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
 
 #### Anonymous practice interviews
 
