@@ -28,6 +28,7 @@
 - [UberViz](https://github.com/OpenDAWN/UberViz)
 - [pywonderland](https://github.com/neozhaoliang/pywonderland)
 - [People-You-Should-Follow-on-CodePen](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen)
+- [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)
 
 ------
 
