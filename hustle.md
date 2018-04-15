@@ -1,6 +1,6 @@
 # Hustle
 
-### Marketplaces
+### Freelance Marketplaces
 
 - [Upwork](https://www.upwork.com/)
 - [Freelancer](https://www.freelancer.com)
@@ -82,6 +82,10 @@
 - [20 best business podcasts of 2015...](https://www.inc.com/travis-wright/19-best-business-podcasts-of-2015-to-stuff-yourself-with-during-your-holiday-tra.html)
 - [WarriorForum](https://www.warriorforum.com/feed/)
 - [StartupStash](http://startupstash.com/)
+
+### Marketplaces
+
+- [Top 5 marketplaces Medium post](https://medium.com/@samdickie/top-5-marketplaces-to-buy-and-sell-side-projects-4381e481ca9d)
 
 #### Failed ventures
 
