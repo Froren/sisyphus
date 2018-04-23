@@ -36,6 +36,10 @@
 - [TopCoder](https://www.topcoder.com/challenges/?pageIndex=1)
 - [VirtualJudge](https://vjudge.net/)
 
+#### Specialized
+
+- [CryptoPals](https://cryptopals.com/)
+
 # Hackathons
 - [ChallengeRocket](https://challengerocket.com/list.html)
 - [DevPost](https://devpost.com/hackathons)
