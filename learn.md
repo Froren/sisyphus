@@ -46,6 +46,15 @@
 - [DevFreeBooks](https://devfreebooks.github.io/)
 - [Google TechDev Guide](https://techdevguide.withgoogle.com/)
 
+## Passive
+- Reddit
+- [HN](https://news.ycombinator.com/)
+- [Lobste.rs](https://lobste.rs/)
+
+## Newsletters
+- [the-morning-paper](https://blog.acolyer.org/)
+- [Human Readable](https://www.humanreadablemag.com/)
+
 #### CS Degree breakdowns
 - [InfoWorld](http://www.infoworld.com/article/2614635/application-development/-200k-for-a-computer-science-degree--or-these-free-online-classes-.html)
 - [aGupieWare](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
