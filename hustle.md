@@ -5,8 +5,6 @@
 - [Upwork](https://www.upwork.com/)
 - [Freelancer](https://www.freelancer.com)
 - [oDesk](https://www.odesk.com)
-- [Elance](https://www.elance.com)
-
 
 ### Remote
 
