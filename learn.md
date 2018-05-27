@@ -74,3 +74,4 @@
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 - [git-logs newsletter](http://www.gitlogs.com/)
 - [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)
+- [HackSource](https://hacksource.xyz/)
