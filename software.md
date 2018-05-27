@@ -14,3 +14,5 @@
 - [How Generative Music Works](https://teropa.info/loop/#/title)
   - [MusicMouse](https://teropa.info/musicmouse/)
 - [Slite](https://slite.com/)
+- [Reep](https://reep.io/)
+- [Instant](https://instant.io/)
