@@ -46,6 +46,11 @@
 - [DevFreeBooks](https://devfreebooks.github.io/)
 - [Google TechDev Guide](https://techdevguide.withgoogle.com/)
 
+#### CS Degree breakdowns
+- [InfoWorld](http://www.infoworld.com/article/2614635/application-development/-200k-for-a-computer-science-degree--or-these-free-online-classes-.html)
+- [aGupieWare](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
+- [OpenCulture](http://www.openculture.com/computer_science_free_courses)
+
 ## Passive
 - Reddit
 - [HN](https://news.ycombinator.com/)
@@ -54,11 +59,7 @@
 ## Newsletters
 - [the-morning-paper](https://blog.acolyer.org/)
 - [Human Readable](https://www.humanreadablemag.com/)
-
-#### CS Degree breakdowns
-- [InfoWorld](http://www.infoworld.com/article/2614635/application-development/-200k-for-a-computer-science-degree--or-these-free-online-classes-.html)
-- [aGupieWare](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
-- [OpenCulture](http://www.openculture.com/computer_science_free_courses)
+- [10words](https://10words.io/)
 
 ## Misc
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
