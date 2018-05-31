@@ -61,6 +61,7 @@
 - [List of challenge problems](http://www.techiedelight.com/list-of-problems/)
 - [LeetCode solutions](https://github.com/kamyu104/LeetCode)
 - [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
+- [30-seconds-of-interviews](https://github.com/fejes713/30-seconds-of-interviews)
 
 #### Anonymous practice interviews
 
