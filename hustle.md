@@ -38,7 +38,6 @@
 - [Authentic Jobs](https://authenticjobs.com/)
 - [F6S](https://www.f6s.com/jobs)
 - [WhoIsHiring](https://whoishiring.io/)
-
 - [Indeed](https://www.indeed.ca/)
 - [Workopolis](https://www.workopolis.com/en/)
 - [Monster](https://www.monster.ca/)
