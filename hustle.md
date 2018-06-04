@@ -21,11 +21,27 @@
 - [WorkingNomads](https://www.workingnomads.co/jobs)
 - [Jobspresso](https://jobspresso.co/)
 - [AuthenticJobs](https://authenticjobs.com/#job-types=7,6,1,5,2,4,3&remote=true&skills=)
+- [Who Is Hiring](https://whoishiring.io/search/-1.2999/-32.6511/2?remote=true)
 
 #### Working Remotely
 - [NomadList](https://nomadlist.com/) - also lists working locations within a given city
 - [WorkFrom](https://workfrom.co/)
 - [LittleWorkspace](https://www.littleworkspace.com/)
+
+### Non-Remote
+
+- [AngelList](https://angel.co/jobs)
+- [StackOverflow Jobs](https://stackoverflow.com/jobs?med=site-ui&ref=jobs-tab)
+- [LinkedIn Jobs](https://www.linkedin.com/jobs/)
+- [HN Jobs](https://news.ycombinator.com/jobs)
+- [HN Hiring](http://hnhiring.me/) ; [direct source](https://hn.algolia.com/?query=%22Who%20is%20Hiring%22&sort=byDate&prefix=false&page=0&dateRange=all&type=story)
+- [Authentic Jobs](https://authenticjobs.com/)
+- [F6S](https://www.f6s.com/jobs)
+- [WhoIsHiring](https://whoishiring.io/)
+
+- [Indeed](https://www.indeed.ca/)
+- [Workopolis](https://www.workopolis.com/en/)
+- [Monster](https://www.monster.ca/)
 
 ### Agencies
 
