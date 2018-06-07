@@ -52,6 +52,7 @@
 - [MonthlyMusicHackathon](http://monthlymusichackathon.org/)
 - [STUPID SHIT NO ONE NEEDS & TERRIBLE IDEAS HACKATHON](http://www.stupidhackathon.com/)
   - Can usually be found on eventbrite, takes place in a handful of cities
+  - [gist](https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87)
 
 # Misc/More Links
 - [Job Puzzles Repo](https://github.com/SITZ/JobPuzzles)
