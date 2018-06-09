@@ -37,6 +37,8 @@
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest)
 - [security](https://github.com/xapax/security)
 - [offensiveinterview](https://github.com/WebBreacher/offensiveinterview)
+- [project-based-learning](https://github.com/tuvtran/project-based-learning)
+- [Project-Based-Tutorials-in-C](https://github.com/rby90/Project-Based-Tutorials-in-C)
 
 ## General websites
 - [/r/learnprogramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_other_resources)
