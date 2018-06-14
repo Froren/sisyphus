@@ -40,6 +40,7 @@
 - [project-based-learning](https://github.com/tuvtran/project-based-learning)
 - [Project-Based-Tutorials-in-C](https://github.com/rby90/Project-Based-Tutorials-in-C)
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [awesome-ci](https://github.com/cytopia/awesome-ci)
 
 ## General websites
 - [/r/learnprogramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_other_resources)
