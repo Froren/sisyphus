@@ -45,7 +45,7 @@
 ## General websites
 - [/r/learnprogramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_other_resources)
 - [Code.org](https://www.code.org)
-- [CodeAcademy](https://www.codecademy.com/)
+- [Codecademy](https://www.codecademy.com/)
 - [Teach yourself CS](https://teachyourselfcs.com/)
 - [DevFreeBooks](https://devfreebooks.github.io/)
 - [Google TechDev Guide](https://techdevguide.withgoogle.com/)
