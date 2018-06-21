@@ -15,6 +15,7 @@
 - [Treehouse](https://teamtreehouse.com/)
 - [Class Central](https://www.class-central.com/)
 - [Brilliant](https://brilliant.org/)
+- [BitDegree](https://www.bitdegree.org/)
 - [FrontEndMasters](https://frontendmasters.com/)
 - [tutsplus](https://code.tutsplus.com/tutorials)
 - [Kirupa](https://www.kirupa.com/)
