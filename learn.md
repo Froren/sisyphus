@@ -15,6 +15,10 @@
 - [Treehouse](https://teamtreehouse.com/)
 - [Class Central](https://www.class-central.com/)
 - [Brilliant](https://brilliant.org/)
+- [FrontEndMasters](https://frontendmasters.com/)
+- [tutsplus](https://code.tutsplus.com/tutorials)
+- [Kirupa](https://www.kirupa.com/)
+- [EventedMind](https://www.eventedmind.com/)
 
 ## Github Repos
 - [my stars](https://github.com/Froren?tab=stars)
