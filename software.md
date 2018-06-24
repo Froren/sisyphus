@@ -16,3 +16,10 @@
 - [Slite](https://slite.com/)
 - [Reep](https://reep.io/)
 - [Instant](https://instant.io/)
+- [StackShare](https://stackshare.io/)
+
+### Hosting
+
+- [Surge.sh](http://surge.sh/)
+- [Glitch](https://glitch.com/)
+- [Netlify](https://www.netlify.com/)
