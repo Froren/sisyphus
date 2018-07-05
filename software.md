@@ -1,5 +1,6 @@
 # Random software that I would otherwise potentially forget about entirely
 
+- [my other stars](https://github.com/randallho?tab=stars) - includes a bunch of ascii art stuff that I forgot about
 - [Charles proxy](https://www.charlesproxy.com/download/)
 - [Scapple](https://www.literatureandlatte.com/scapple/overview)
 
@@ -23,3 +24,9 @@
 - [Surge.sh](http://surge.sh/)
 - [Glitch](https://glitch.com/)
 - [Netlify](https://www.netlify.com/)
+
+# Dev Env
+
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [git-extras](https://github.com/tj/git-extras)
+- [squashic's setup](https://github.com/pulsedemon/osx-setup)
