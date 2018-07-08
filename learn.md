@@ -71,6 +71,11 @@
 - [Human Readable](https://www.humanreadablemag.com/)
 - [10words](https://10words.io/)
 
+## Books 
+- [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
+- [Doradolist](http://www.doradolist.com/)
+- that google docs spreadsheet that you keep 
+
 ## Misc
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [Funtoo articles (Linux)](http://www.funtoo.org/Category:Articles)
@@ -78,7 +83,6 @@
 - [7 sites to help you focus](https://medium.com/statuscode/7-sites-to-help-you-relax-and-focus-whilst-programming-16057afe90da)
 - [MyBridge](https://www.mybridge.co/skills/javascript)
 - [StackShare](https://stackshare.io/)
-- [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
