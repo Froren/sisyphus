@@ -65,6 +65,7 @@
 - Reddit
 - [HN](https://news.ycombinator.com/)
 - [Lobste.rs](https://lobste.rs/)
+- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
 
 ## Newsletters
 - [the-morning-paper](https://blog.acolyer.org/)
