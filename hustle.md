@@ -4,7 +4,6 @@
 
 - [Upwork](https://www.upwork.com/)
 - [Freelancer](https://www.freelancer.com)
-- [oDesk](https://www.odesk.com)
 
 ### Remote
 
