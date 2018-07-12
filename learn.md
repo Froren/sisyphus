@@ -77,7 +77,7 @@
    - [BestBusinessBooks](http://bestbusinessbooksever.com/)
 
 ### Security
-- [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) *
+- **[Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)**
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
 - [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
 - [awesome-pentest](https://github.com/enaqx/awesome-pentest)
