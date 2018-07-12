@@ -38,10 +38,6 @@
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 - [useful-java-links](https://github.com/Vedenin/useful-java-links)
-- [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
-- [awesome-pentest](https://github.com/enaqx/awesome-pentest)
-- [security](https://github.com/xapax/security)
-- [offensiveinterview](https://github.com/WebBreacher/offensiveinterview)
 - [project-based-learning](https://github.com/tuvtran/project-based-learning)
 - [Project-Based-Tutorials-in-C](https://github.com/rby90/Project-Based-Tutorials-in-C)
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
@@ -79,6 +75,17 @@
 - [[IndieHackers] What books do you recommend?](https://www.indiehackers.com/forum/what-books-do-you-recommend-4dfa511caa)
    - [Side Project Books](https://books.makesideproject.com/) 
    - [BestBusinessBooks](http://bestbusinessbooksever.com/)
+
+### Security
+- [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) *
+- [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
+- [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
+- [awesome-pentest](https://github.com/enaqx/awesome-pentest)
+- [security](https://github.com/xapax/security)
+- [offensiveinterview](https://github.com/WebBreacher/offensiveinterview)
+- [hacker101](https://github.com/Hacker0x01/hacker101)
+- [netsec sub wiki](https://www.reddit.com/r/netsec/wiki/start)
+- [howtohack sub sidebar](https://www.reddit.com/r/HowToHack/)
 
 ## Misc
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
