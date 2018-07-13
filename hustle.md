@@ -101,6 +101,8 @@
 ### Marketplaces
 
 - [Top 5 marketplaces Medium post](https://medium.com/@samdickie/top-5-marketplaces-to-buy-and-sell-side-projects-4381e481ca9d)
+- [EmpireFlippers](https://empireflippers.com/)
+- [Quietlightbrokerage](https://www.quietlightbrokerage.com/)
 
 #### Failed ventures
 
