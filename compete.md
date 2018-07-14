@@ -39,6 +39,7 @@
 #### Specialized
 
 - [CryptoPals](https://cryptopals.com/)
+- [HackerFire](https://hackerfire.com/)
 
 # Hackathons
 - [ChallengeRocket](https://challengerocket.com/list.html)
