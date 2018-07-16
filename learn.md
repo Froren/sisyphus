@@ -61,6 +61,7 @@
 - Reddit
 - [HN](https://news.ycombinator.com/)
 - [Lobste.rs](https://lobste.rs/)
+- [Barnacl.es](https://barnacl.es/)
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
 
 ## Newsletters
