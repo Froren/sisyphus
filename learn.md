@@ -37,6 +37,7 @@
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+- [java-design-patterns](https://github.com/iluwatar/java-design-patterns); [Java-design-patterns.com](http://java-design-patterns.com/)
 - [useful-java-links](https://github.com/Vedenin/useful-java-links)
 - [project-based-learning](https://github.com/tuvtran/project-based-learning)
 - [Project-Based-Tutorials-in-C](https://github.com/rby90/Project-Based-Tutorials-in-C)
@@ -76,6 +77,7 @@
 - [[IndieHackers] What books do you recommend?](https://www.indiehackers.com/forum/what-books-do-you-recommend-4dfa511caa)
    - [Side Project Books](https://books.makesideproject.com/) 
    - [BestBusinessBooks](http://bestbusinessbooksever.com/)
+- [Refactoring.guru](https://refactoring.guru/)
 
 ### Security
 - **[Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)**
