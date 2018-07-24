@@ -5,6 +5,11 @@
 - [Upwork](https://www.upwork.com/)
 - [Freelancer](https://www.freelancer.com)
 
+- [Fiverr](https://www.fiverr.com/)
+- [PeoplePerHour](https://www.peopleperhour.com/)
+- [99designs](https://99designs.com/)
+- [Envato](https://envato.com/)
+
 ### Remote
 
 - [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)
