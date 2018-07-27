@@ -19,6 +19,7 @@
 - [Instant](https://instant.io/)
 - [StackShare](https://stackshare.io/)
 - [awesome-console-services](https://github.com/chubin/awesome-console-services)
+- [hackathon-starter](https://github.com/sahat/hackathon-starter)
 
 ### Hosting
 
