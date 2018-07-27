@@ -3,6 +3,7 @@
 - [my other stars](https://github.com/randallho?tab=stars) - includes a bunch of ascii art stuff that I forgot about
 - [Charles proxy](https://www.charlesproxy.com/download/)
 - [Scapple](https://www.literatureandlatte.com/scapple/overview)
+- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
 
 # Web
 - [Draw.io](https://www.draw.io/)
