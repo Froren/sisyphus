@@ -21,6 +21,7 @@
 - [StackShare](https://stackshare.io/)
 - [awesome-console-services](https://github.com/chubin/awesome-console-services)
 - [hackathon-starter](https://github.com/sahat/hackathon-starter)
+- [vim.wasm](https://github.com/rhysd/vim.wasm)
 
 ### Hosting
 
