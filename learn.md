@@ -103,3 +103,4 @@
 - [git-logs newsletter](http://www.gitlogs.com/)
 - [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)
 - [HackSource](https://hacksource.xyz/)
+- [12factor](https://www.12factor.net/)
