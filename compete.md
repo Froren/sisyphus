@@ -13,6 +13,7 @@
 - [CodeForces](http://codeforces.com/problemset)
 - [CodeWars](https://www.codewars.com/)
 - [CoderByte](https://coderbyte.com/)
+- [Codier](https://codier.io/)
 - [Codility](https://codility.com/programmers/challenges/)
 - [CodinGame](https://www.codingame.com/)
 - [CodingBat](http://codingbat.com/)
