@@ -4,6 +4,7 @@
 - [Charles proxy](https://www.charlesproxy.com/download/)
 - [Scapple](https://www.literatureandlatte.com/scapple/overview)
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
+- [free-for-dev](https://github.com/ripienaar/free-for-dev)
 
 # Web
 - [Draw.io](https://www.draw.io/)
