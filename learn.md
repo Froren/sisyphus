@@ -72,6 +72,8 @@
 - [the-morning-paper](https://blog.acolyer.org/)
 - [Human Readable](https://www.humanreadablemag.com/)
 - [10words](https://10words.io/)
+- [dev mastery](https://www.devmastery.com/)
+- [git-logs newsletter](http://www.gitlogs.com/)
 
 ## Books 
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
@@ -103,7 +105,6 @@
 - [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
-- [git-logs newsletter](http://www.gitlogs.com/)
 - [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)
 - [HackSource](https://hacksource.xyz/)
 - [12factor](https://www.12factor.net/)
