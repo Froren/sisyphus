@@ -34,16 +34,19 @@
 - [(list of practical) projects](https://github.com/karan/Projects)
 - [open-source-cs-degree](https://github.com/mvillaloboz/open-source-cs-degree)
 - [what-happens-when](https://github.com/alex/what-happens-when)
+- [useful-java-links](https://github.com/Vedenin/useful-java-links)
+- [project-based-learning](https://github.com/tuvtran/project-based-learning)
+- [Project-Based-Tutorials-in-C](https://github.com/rby90/Project-Based-Tutorials-in-C)
+- [awesome-ci](https://github.com/cytopia/awesome-ci)
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+
+#### Scalability and System Design
+
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns); [Java-design-patterns.com](http://java-design-patterns.com/)
-- [useful-java-links](https://github.com/Vedenin/useful-java-links)
-- [project-based-learning](https://github.com/tuvtran/project-based-learning)
-- [Project-Based-Tutorials-in-C](https://github.com/rby90/Project-Based-Tutorials-in-C)
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
-- [awesome-ci](https://github.com/cytopia/awesome-ci)
-- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## General websites
 - [/r/learnprogramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_other_resources)
@@ -104,3 +107,4 @@
 - [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)
 - [HackSource](https://hacksource.xyz/)
 - [12factor](https://www.12factor.net/)
+- [medium post with some scalability links](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
