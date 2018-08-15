@@ -27,7 +27,6 @@
 - [Open Source Society - Computer Science](https://github.com/open-source-society/computer-science)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#moocs-for-learning-something-new)
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 - [one-click-to-be-a-pro](https://github.com/vic317yeh/One-Click-to-Be-Pro)
 - [learn-anything](https://github.com/nikitavoloboev/learn-anything)
 - [awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits)
