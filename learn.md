@@ -39,14 +39,6 @@
 - [awesome-ci](https://github.com/cytopia/awesome-ci)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
-#### Scalability and System Design
-
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
-- [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
-- [java-design-patterns](https://github.com/iluwatar/java-design-patterns); [Java-design-patterns.com](http://java-design-patterns.com/)
-- [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
-
 ## General websites
 - [/r/learnprogramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_other_resources)
 - [Code.org](https://www.code.org)
@@ -63,8 +55,7 @@
 ## Passive
 - Reddit
 - [HN](https://news.ycombinator.com/)
-- [Lobste.rs](https://lobste.rs/)
-- [Barnacl.es](https://barnacl.es/)
+- [Lobste.rs](https://lobste.rs/); [sister sites](https://github.com/lobsters/lobsters/wiki)
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
 
 ## Newsletters
@@ -94,6 +85,16 @@
 - [netsec sub wiki](https://www.reddit.com/r/netsec/wiki/start)
 - [howtohack sub sidebar](https://www.reddit.com/r/HowToHack/)
 
+### Scalability and System Design
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+- [java-design-patterns](https://github.com/iluwatar/java-design-patterns); [Java-design-patterns.com](http://java-design-patterns.com/)
+- [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [High Scalability](http://highscalability.com/blog/category/example)
+- [medium post with some scalability links](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
+- [blogs](https://github.com/Froren/sisyphus/blob/master/learn.md#passive)
+
 ## Misc
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [Funtoo articles (Linux)](http://www.funtoo.org/Category:Articles)
@@ -107,4 +108,4 @@
 - [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)
 - [HackSource](https://hacksource.xyz/)
 - [12factor](https://www.12factor.net/)
-- [medium post with some scalability links](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
+
