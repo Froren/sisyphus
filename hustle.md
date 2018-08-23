@@ -95,6 +95,7 @@
 ### Entrepreneurship
 
 - [IndieHackers](https://www.indiehackers.com/)
+- [Barnacl.es](https://barnacl.es/)
 - [StarterStory](https://www.starterstory.com/)
 - [Latka](https://getlatka.com/)
 - [OppsList](https://www.oppslist.com/)
