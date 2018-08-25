@@ -95,6 +95,9 @@
 - [medium post with some scalability links](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
 - [system-design](https://github.com/FreemanZhang/system-design)
 - [system-design-interview](https://github.com/checkcheckzz/system-design-interview)
+- [Pramp: the complete system design interviewer guide](https://blog.pramp.com/the-complete-system-design-interviewer-guide-e5d273724db8) -  contains links to more resoruces
+- [Pramp: how to succeed in a system design interview ](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26)
+- [Pramp: anatomy of a system design interview](https://blog.pramp.com/system-design-interview-process-e91aae2dbe83)
 - [blogs](https://github.com/Froren/sisyphus/blob/master/learn.md#passive)
 
 ## Misc
