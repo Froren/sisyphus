@@ -128,4 +128,4 @@
  - [BreakoutList](https://breakoutlist.com/)
  - [KeyValues/CultureQueries](https://www.keyvalues.com/culture-queries/) - interview questions to ask
 - [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup)
- 
+- [Indie-Ignitor (plugin marketplaces)](https://indie-ignitor.com/marketplaces) 
