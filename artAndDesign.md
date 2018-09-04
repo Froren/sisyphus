@@ -47,6 +47,7 @@
 - [Pages.xyz](https://www.pages.xyz/)
 - [Lapa.ninja](https://www.lapa.ninja/)
 - [Land-book](https://land-book.com/)
+- [Muzli](https://medium.muz.li/)
 
 ------
 
@@ -62,4 +63,6 @@
 - [R2D3](http://www.r2d3.us/)
 - [Unsplash](https://unsplash.com/)
 - [SIGBOVIK](http://www.sigbovik.org/)
+- [InVision blog](https://www.invisionapp.com/blog) - check out the newsletter too
+  - [DesignBetter](https://www.designbetter.co/)
 - Check codepen, stars
