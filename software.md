@@ -29,6 +29,7 @@
 - [Surge.sh](http://surge.sh/)
 - [Glitch](https://glitch.com/)
 - [Netlify](https://www.netlify.com/)
+- [HostKoala from random reddit posting](https://www.reddit.com/r/slavelabour/comments/9ebhcy/offer_web_hosting_for_2_a_year_in_6_locations/)
 
 # Dev Env
 
