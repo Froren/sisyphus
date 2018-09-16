@@ -97,6 +97,7 @@
 - [system-design-interview](https://github.com/checkcheckzz/system-design-interview)
 - [Pramp: the complete system design interviewer guide](https://blog.pramp.com/the-complete-system-design-interviewer-guide-e5d273724db8) -  contains links to more resoruces
 - [Pramp: how to succeed in a system design interview ](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26) - contains links
+- [Gainlo Blog - system design questions](http://blog.gainlo.co/index.php/category/system-design-interview-questions/)
 - [blogs](https://github.com/Froren/sisyphus/blob/master/learn.md#passive)
 
 ## Misc
