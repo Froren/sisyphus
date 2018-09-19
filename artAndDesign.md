@@ -58,7 +58,7 @@
 - [Brutalist websites](http://brutalistwebsites.com/)
 ------
 
-### Instructtional
+### Instructional
 
 - [IndieHackers - how did you learn design](https://www.indiehackers.com/forum/how-did-you-learn-design-4e2da7b429)
 
