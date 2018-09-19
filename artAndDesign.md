@@ -58,6 +58,12 @@
 - [Brutalist websites](http://brutalistwebsites.com/)
 ------
 
+### Instructtional
+
+- [IndieHackers - how did you learn design](https://www.indiehackers.com/forum/how-did-you-learn-design-4e2da7b429)
+
+------
+
 ##### Misc
 
 - [R2D3](http://www.r2d3.us/)
