@@ -72,4 +72,5 @@
 - [SIGBOVIK](http://www.sigbovik.org/)
 - [InVision blog](https://www.invisionapp.com/blog) - check out the newsletter too
   - [DesignBetter](https://www.designbetter.co/)
+- [Pexels](https://www.pexels.com/)
 - Check codepen, stars
