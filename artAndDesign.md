@@ -3,6 +3,7 @@
 - [Marpi](https://marpi.pl/)
 - [Ncase](http://ncase.me/)
 - [CoDrops](https://tympanus.net/codrops/)
+- [DesignerNews](https://www.designernews.co/)
 
 ------
 
