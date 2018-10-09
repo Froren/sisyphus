@@ -49,6 +49,7 @@
 - [Lapa.ninja](https://www.lapa.ninja/)
 - [Land-book](https://land-book.com/)
 - [Muzli](https://medium.muz.li/)
+- [Cruip](https://cruip.com/)
 
 ------
 
