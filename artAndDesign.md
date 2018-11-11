@@ -75,6 +75,7 @@
 
 ##### Misc
 
+- [Hi-res chicago museum artwork](https://www.artic.edu/collection)
 - [R2D3](http://www.r2d3.us/)
 - [Dribbble](https://dribbble.com/)
 - [SIGBOVIK](http://www.sigbovik.org/)
