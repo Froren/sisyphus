@@ -58,6 +58,7 @@
 
 - [Museum of websites](https://www.kapwing.com/museum-of-websites)
 - [Brutalist websites](http://brutalistwebsites.com/)
+
 ------
 
 ### Instructional
@@ -73,9 +74,15 @@
 
 ------
 
+### Museum Collections
+
+- [MET](https://www.metmuseum.org/art/collection/)
+- [Art Institute of Chicago](https://www.artic.edu/collection)
+
+------
+
 ##### Misc
 
-- [Hi-res chicago museum artwork](https://www.artic.edu/collection)
 - [R2D3](http://www.r2d3.us/)
 - [Dribbble](https://dribbble.com/)
 - [SIGBOVIK](http://www.sigbovik.org/)
