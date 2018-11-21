@@ -25,6 +25,9 @@
 - [vim.wasm](https://github.com/rhysd/vim.wasm)
 - [80s.nyc](http://80s.nyc)
 
+- [State Of JS](https://stateofjs.com/)
+- [Best Of JS](https://bestofjs.org/)
+
 ### Hosting
 
 - [Surge.sh](http://surge.sh/)
