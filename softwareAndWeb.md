@@ -28,6 +28,8 @@
 ----
 - [State Of JS](https://stateofjs.com/)
 - [Best Of JS](https://bestofjs.org/)
+----
+- [Shodan](https://www.shodan.io/)
 
 ### Hosting
 
