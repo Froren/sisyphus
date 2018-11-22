@@ -101,6 +101,9 @@
 - [Pramp: how to succeed in a system design interview ](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26) - contains links
 - [Gainlo Blog - system design questions](http://blog.gainlo.co/index.php/category/system-design-interview-questions/)
 - [blogs](https://github.com/Froren/sisyphus/blob/master/learn.md#passive)
+----
+- [StackShare](https://stackshare.io/)
+- [BuiltWith](https://builtwith.com/)
 
 ## Misc
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
@@ -108,7 +111,6 @@
 - [Some random dude's google doc](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#gid=0)
 - [7 sites to help you focus](https://medium.com/statuscode/7-sites-to-help-you-relax-and-focus-whilst-programming-16057afe90da)
 - [MyBridge](https://www.mybridge.co/skills/javascript)
-- [StackShare](https://stackshare.io/)
 - [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
