@@ -25,6 +25,7 @@
 - [hackathon-starter](https://github.com/sahat/hackathon-starter)
 - [vim.wasm](https://github.com/rhysd/vim.wasm)
 - [80s.nyc](http://80s.nyc)
+- [dbdiagram.io](https://dbdiagram.io/)
 ----
 - [State Of JS](https://stateofjs.com/)
 - [Best Of JS](https://bestofjs.org/)
