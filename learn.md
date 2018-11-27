@@ -104,6 +104,7 @@
 ----
 - [StackShare](https://stackshare.io/)
 - [BuiltWith](https://builtwith.com/)
+- [StartupCosts](https://www.startupcosts.co/)
 
 ## Misc
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
