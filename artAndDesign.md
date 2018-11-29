@@ -89,3 +89,4 @@
 - [InVision blog](https://www.invisionapp.com/blog) - check out the newsletter too
   - [DesignBetter](https://www.designbetter.co/)
 - Check codepen, stars
+- [The Useless Web](https://theuselessweb.com/)
