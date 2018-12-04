@@ -41,6 +41,9 @@
 - [Netlify](https://www.netlify.com/)
 - [HostKoala from random reddit posting](https://www.reddit.com/r/slavelabour/comments/9ebhcy/offer_web_hosting_for_2_a_year_in_6_locations/)
 
+----
+- [Freenom](https://www.freenom.com/) - free domain names whaaaat.
+
 # Dev Env
 
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
