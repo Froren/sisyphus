@@ -85,6 +85,7 @@
 - [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
 - [30-seconds-of-interviews](https://github.com/fejes713/30-seconds-of-interviews)
 - [mock-interview-questions](https://github.com/charliegerard/mock-interview-questions) - links to challenge sites
+- [FAQGURU](https://github.com/FAQGURU/FAQGURU)
 
 #### Anonymous practice interviews
 
