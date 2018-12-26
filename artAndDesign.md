@@ -80,7 +80,7 @@
 
 - [MET](https://www.metmuseum.org/art/collection/)
 - [Art Institute of Chicago](https://www.artic.edu/collection)
-
+- [Patterns In Islamic Art](https://patterninislamicart.com/)
 ------
 
 ##### Misc
@@ -92,3 +92,4 @@
   - [DesignBetter](https://www.designbetter.co/)
 - Check codepen, stars
 - [The Useless Web](https://theuselessweb.com/)
+- [Smashing Magazine](https://www.smashingmagazine.com/)
