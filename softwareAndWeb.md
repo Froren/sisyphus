@@ -54,8 +54,8 @@
 
 ### Ego Death
 
-- [Namecheap](https://www.namecheap.com/)
-- [DigitalOcean](https://www.digitalocean.com/)
-- [Linode](https://www.linode.com/)
+- [Namecheap](https://ap.www.namecheap.com/settings/tools/affiliate/)
+- [DigitalOcean](https://m.do.co/c/b56dd564c5ab)
+- [Linode](https://www.linode.com/?r=b60d4c5864b52ba46a068accffa721e08afa4575)
 - [SessionBuddy](https://sessionbuddy.com/)
 - [OneTab](https://www.one-tab.com/)
