@@ -51,9 +51,9 @@
 
 ### Agencies
 
-- [A-List](https://alist.co)
-- [Hired](https://hired.com/)
-- [TripleByte](https://triplebyte.com/)
+- [A-List](https://alist.co/candidates/refer/18326)
+- [Hired](https://hired.com/x/62dx2)
+- [TripleByte](https://triplebyte.com/iv/ZUPlg1q/cp)
 - [CodeForCash](https://codefor.cash/)
 - [Underdog.io](https://underdog.io)
 - [Gun.io](https://gun.io)
