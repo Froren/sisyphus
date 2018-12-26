@@ -50,3 +50,12 @@
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [git-extras](https://github.com/tj/git-extras)
 - [squashic's setup](https://github.com/pulsedemon/osx-setup)
+
+
+### Ego Death
+
+- [Namecheap](https://www.namecheap.com/)
+- [DigitalOcean](https://www.digitalocean.com/)
+- [Linode](https://www.linode.com/)
+- [SessionBuddy](https://sessionbuddy.com/)
+- [OneTab](https://www.one-tab.com/)
