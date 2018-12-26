@@ -71,6 +71,8 @@
 
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://www.pexels.com/)
+- [Picular](https://picular.co/)
+- [icons8](https://icons8.com/)
 
 ------
 
@@ -90,4 +92,3 @@
   - [DesignBetter](https://www.designbetter.co/)
 - Check codepen, stars
 - [The Useless Web](https://theuselessweb.com/)
-- [Picular](https://picular.co/)
