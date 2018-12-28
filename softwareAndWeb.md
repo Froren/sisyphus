@@ -41,6 +41,7 @@
 - [Netlify](https://www.netlify.com/)
 - [HostKoala from random reddit posting](https://www.reddit.com/r/slavelabour/comments/9ebhcy/offer_web_hosting_for_2_a_year_in_6_locations/)
 - [1mb.site](https://1mb.site/)
+- [▲ZEIT](https://zeit.co/)
 
 ----
 - [Freenom](https://www.freenom.com/) - free domain names whaaaat.
