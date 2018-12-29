@@ -76,6 +76,14 @@
 
 ------
 
+### Fonts
+
+- [DaFont](https://www.dafont.com/)
+- [Optician-Sans](https://optician-sans.com/)
+- [InterUI](https://rsms.me/inter/)
+
+------
+
 ### Museum Collections
 
 - [MET](https://www.metmuseum.org/art/collection/)
