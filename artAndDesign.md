@@ -50,6 +50,7 @@
 - [Land-book](https://land-book.com/)
 - [Muzli](https://medium.muz.li/)
 - [Cruip](https://cruip.com/)
+- [Formico referral site](https://formico.io/landing-page-inspiration/)
 
 ------
 
