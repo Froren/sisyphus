@@ -112,11 +112,12 @@
 - [EmpireFlippers](https://empireflippers.com/)
 - [Quietlightbrokerage](https://www.quietlightbrokerage.com/)
 
-#### Failed ventures
+#### Failed ventures/Failure
 
 - [Collapsed](https://collapsed.co/)
 - [post-mortems](https://github.com/danluu/post-mortems)
 - [Failory](https://failory.com/)
+- [rejected.us](https://rejected.us/)
 
 ### Misc
 
