@@ -2,7 +2,7 @@
 
 ## Courses
 - [Coursera](https://www.coursera.org/)
-- [edx](https://www.edx.org/courses)
+- [edx](https://www.edx.org/)
 - [Udemy](https://www.udemy.com/)
 - [Udacity](https://www.udacity.com/)
 - [Pluralsight](https://www.pluralsight.com/)
