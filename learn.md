@@ -20,6 +20,7 @@
 - [tutsplus](https://code.tutsplus.com/tutorials)
 - [Kirupa](https://www.kirupa.com/)
 - [EventedMind](https://www.eventedmind.com/)
+- [SkillShare](https://www.skillshare.com/)
 
 ## Github Repos
 - [my stars](https://github.com/Froren?tab=stars)
