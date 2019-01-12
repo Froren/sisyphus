@@ -87,6 +87,14 @@
 - [mock-interview-questions](https://github.com/charliegerard/mock-interview-questions) - links to challenge sites
 - [FAQGURU](https://github.com/FAQGURU/FAQGURU)
 
+### Salaries
+
+- Glassdoor
+- [Levels.fyi](https://www.levels.fyi/)
+- [/r/cscareerquestions responses](https://docs.google.com/spreadsheets/d/1xnU7LdpF1ErsPyaBgrCAVzuBMYR6os1ydhXV2DBi2FU/edit)
+- [Hired salaries](https://hired.com/salaries)
+- [SalaryProject](https://www.salaryproject.com/)
+
 #### Anonymous practice interviews
 
 - [interviewing.io](https://interviewing.io/) - Very high bar, they're always DP problems. People are also pretty harsh, morale takes a hit but at least it's humbling. Well-polished, gives you a chance to connect after if you both want to.
