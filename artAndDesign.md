@@ -74,6 +74,7 @@
 - [Pexels](https://www.pexels.com/)
 - [Picular](https://picular.co/)
 - [icons8](https://icons8.com/)
+- [awesome-icons](https://github.com/notlmn/awesome-icons)
 
 ------
 
