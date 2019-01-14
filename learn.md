@@ -77,6 +77,7 @@
    - [Side Project Books](https://books.makesideproject.com/) 
    - [BestBusinessBooks](http://bestbusinessbooksever.com/)
 - [Refactoring.guru](https://refactoring.guru/)
+- [/r/learnprogramming books](https://www.reddit.com/r/learnprogramming/wiki/books)
 
 ### Security
 - **[Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)**
