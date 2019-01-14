@@ -110,6 +110,9 @@
 - [StartupCosts](https://www.startupcosts.co/)
 - [Siftery](https://siftery.com/)
 
+### Career Development
+- [DevToManager](https://devtomanager.com/)
+
 ## Misc
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [Funtoo articles (Linux)](http://www.funtoo.org/Category:Articles)
