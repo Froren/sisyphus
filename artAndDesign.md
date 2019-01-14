@@ -33,6 +33,8 @@
 - [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)
 - [awesome-portfolios](https://github.com/iRaul/awesome-portfolios)
 - [generative-artistry](https://github.com/tholman/generative-artistry)
+- [awesome-machine-learning-art](https://github.com/vibertthio/awesome-machine-learning-art)
+- [awesome-glsl](https://github.com/radixzz/awesome-glsl)
 
 ------
 
