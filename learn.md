@@ -79,6 +79,8 @@
 - [Refactoring.guru](https://refactoring.guru/)
 - [/r/learnprogramming books](https://www.reddit.com/r/learnprogramming/wiki/books)
 
+### [Graphics/Art](https://github.com/Froren/sisyphus/blob/master/artAndDesign.md)
+
 ### Security
 - **[Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)**
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
@@ -121,8 +123,8 @@
 - [MyBridge](https://www.mybridge.co/skills/javascript)
 - [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
-- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 - [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)
 - [HackSource](https://hacksource.xyz/)
 - [12factor](https://www.12factor.net/)
-
+- [How to Make a Computer Operating System repo](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+- [awesome-cryptocurrency-security](https://github.com/nongiach/awesome-cryptocurrency-security)
