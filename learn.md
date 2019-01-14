@@ -92,6 +92,10 @@
 - [netsec sub wiki](https://www.reddit.com/r/netsec/wiki/start)
 - [howtohack sub sidebar](https://www.reddit.com/r/HowToHack/)
 
+----
+
+- [awesome-cryptocurrency-security](https://github.com/nongiach/awesome-cryptocurrency-security)
+
 ### Scalability and System Design
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
@@ -127,4 +131,3 @@
 - [HackSource](https://hacksource.xyz/)
 - [12factor](https://www.12factor.net/)
 - [How to Make a Computer Operating System repo](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
-- [awesome-cryptocurrency-security](https://github.com/nongiach/awesome-cryptocurrency-security)
