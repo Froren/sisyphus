@@ -35,6 +35,7 @@
 - [generative-artistry](https://github.com/tholman/generative-artistry)
 - [awesome-machine-learning-art](https://github.com/vibertthio/awesome-machine-learning-art)
 - [awesome-glsl](https://github.com/radixzz/awesome-glsl)
+- [awesome-casestudy](https://github.com/luruke/awesome-casestudy)
 
 ------
 
