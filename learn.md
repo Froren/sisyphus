@@ -78,6 +78,7 @@
    - [BestBusinessBooks](http://bestbusinessbooksever.com/)
 - [Refactoring.guru](https://refactoring.guru/)
 - [/r/learnprogramming books](https://www.reddit.com/r/learnprogramming/wiki/books)
+- [Technical-eBooks](https://github.com/devharsh/Technical-eBooks)
 
 ### [Graphics/Art](https://github.com/Froren/sisyphus/blob/master/artAndDesign.md)
 
