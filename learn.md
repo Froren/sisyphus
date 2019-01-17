@@ -40,6 +40,7 @@
 - [awesome-ci](https://github.com/cytopia/awesome-ci)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 
 ## General websites
 - [/r/learnprogramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_other_resources)
