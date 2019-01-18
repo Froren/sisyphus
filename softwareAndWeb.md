@@ -32,12 +32,12 @@
 - [Best Of JS](https://bestofjs.org/)
 ----
 - [Shodan](https://www.shodan.io/)
-
 - [Keepin it Feel](https://www.keepinitfeel.com/) 
 - [HeyFromTheFuture](https://heyfromthefuture.com/)
 - [themostdangerouswritingapp](https://github.com/maebert/themostdangerouswritingapp)
 - [Social Pomodoro](http://socialpomodoro.com/)
-- [Thought Train](https://www.thoughttrain.cc/) [[MenuBarList](http://menubarlist.com/)]
+- [Thought Train](https://www.thoughttrain.cc/) [[MenuBarList](http://menubarlist.com/)] 
+
 
 ### Hosting
 
