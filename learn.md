@@ -42,6 +42,7 @@
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
+- [professional-programming](https://github.com/charlax/professional-programming)
 
 ## General websites
 - [/r/learnprogramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_other_resources)
