@@ -36,6 +36,7 @@
 - [awesome-machine-learning-art](https://github.com/vibertthio/awesome-machine-learning-art)
 - [awesome-glsl](https://github.com/radixzz/awesome-glsl)
 - [awesome-casestudy](https://github.com/luruke/awesome-casestudy)
+- [creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes)
 
 ------
 
@@ -59,9 +60,13 @@
 
 ### Website gallery
 
-
 - [Museum of websites](https://www.kapwing.com/museum-of-websites)
 - [Brutalist websites](http://brutalistwebsites.com/)
+
+#### Shaders/Demos
+
+- [ShaderToy](https://www.shadertoy.com/)
+- [Codepen](https://codepen.io/pens/following/)
 
 ------
 
@@ -103,6 +108,6 @@
 - [SIGBOVIK](http://www.sigbovik.org/)
 - [InVision blog](https://www.invisionapp.com/blog) - check out the newsletter too
   - [DesignBetter](https://www.designbetter.co/)
-- Check codepen, stars
+- Check stars
 - [The Useless Web](https://theuselessweb.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
