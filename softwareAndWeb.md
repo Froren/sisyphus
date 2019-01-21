@@ -65,3 +65,4 @@
 - [Linode](https://www.linode.com/?r=b60d4c5864b52ba46a068accffa721e08afa4575)
 - [SessionBuddy](https://sessionbuddy.com/)
 - [OneTab](https://www.one-tab.com/)
+- [Google Fi](https://g.co/fi/r/1X169F)
