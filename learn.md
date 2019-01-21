@@ -33,6 +33,7 @@
 - [awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits)
 - [(list of practical) projects](https://github.com/karan/Projects)
 - [open-source-cs-degree](https://github.com/mvillaloboz/open-source-cs-degree)
+- [open-source-cs](https://github.com/ForrestKnight/open-source-cs)
 - [what-happens-when](https://github.com/alex/what-happens-when)
 - [useful-java-links](https://github.com/Vedenin/useful-java-links)
 - [project-based-learning](https://github.com/tuvtran/project-based-learning)
