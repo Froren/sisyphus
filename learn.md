@@ -123,6 +123,8 @@
 
 ### Career Development
 - [DevToManager](https://devtomanager.com/)
+- [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)
+- [engineering-management](https://github.com/charlax/engineering-management)
 
 ## Misc
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
