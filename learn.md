@@ -115,6 +115,7 @@
 - [Pramp: how to succeed in a system design interview ](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26) - contains links
 - [Gainlo Blog - system design questions](http://blog.gainlo.co/index.php/category/system-design-interview-questions/)
 - [blogs](https://github.com/Froren/sisyphus/blob/master/learn.md#passive)
+- [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories)
 ----
 - [StackShare](https://stackshare.io/)
 - [BuiltWith](https://builtwith.com/)
