@@ -96,6 +96,12 @@
 - [hacker101](https://github.com/Hacker0x01/hacker101)
 - [netsec sub wiki](https://www.reddit.com/r/netsec/wiki/start)
 - [howtohack sub sidebar](https://www.reddit.com/r/HowToHack/)
+- [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
+
+### Livecoding
+
+- [awesome-livecoding](https://github.com/toplap/awesome-livecoding)
+- [livecoders](https://github.com/toplap/livecoders)
 
 ----
 
@@ -139,4 +145,3 @@
 - [HackSource](https://hacksource.xyz/)
 - [12factor](https://www.12factor.net/)
 - [How to Make a Computer Operating System repo](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
-- [awesome-livecoding](https://github.com/toplap/awesome-livecoding)
