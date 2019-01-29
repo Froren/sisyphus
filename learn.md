@@ -97,15 +97,13 @@
 - [netsec sub wiki](https://www.reddit.com/r/netsec/wiki/start)
 - [howtohack sub sidebar](https://www.reddit.com/r/HowToHack/)
 - [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
+----
+- [awesome-cryptocurrency-security](https://github.com/nongiach/awesome-cryptocurrency-security)
 
 ### Livecoding
 
 - [awesome-livecoding](https://github.com/toplap/awesome-livecoding)
 - [livecoders](https://github.com/toplap/livecoders)
-
-----
-
-- [awesome-cryptocurrency-security](https://github.com/nongiach/awesome-cryptocurrency-security)
 
 ### Scalability and System Design
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
