@@ -121,6 +121,12 @@
 - [WarriorForum](https://www.warriorforum.com/feed/)
 - [StartupStash](http://startupstash.com/)
 
+#### Products and Growth Hacking
+
+- [ProductHunt](https://www.producthunt.com/)
+- [BetaList](https://betalist.com/)
+- [Submit.co](https://submit.co/) - places to post your startup
+
 ### Marketplaces
 
 - [Top 5 marketplaces Medium post](https://medium.com/@samdickie/top-5-marketplaces-to-buy-and-sell-side-projects-4381e481ca9d)
