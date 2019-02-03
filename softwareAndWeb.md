@@ -37,7 +37,8 @@
 - [themostdangerouswritingapp](https://github.com/maebert/themostdangerouswritingapp)
 - [Social Pomodoro](http://socialpomodoro.com/)
 - [Thought Train](https://www.thoughttrain.cc/) [[MenuBarList](http://menubarlist.com/)] 
-
+- [Hemisphere](https://hemisphereapp.com/)
+- [200wordsaday](https://200wordsaday.com/)
 
 ### Hosting
 
