@@ -13,6 +13,7 @@
 ### Remote
 
 - [remote](https://www.remote.com/)
+- [remotive](https://remotive.io/)
 - [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)
 - [jessicard/remote-jobs](https://github.com/jessicard/remote-jobs)
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
