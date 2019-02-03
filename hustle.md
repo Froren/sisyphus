@@ -149,8 +149,9 @@
 - [LanceList](http://www.lancelist.com/)
   - Includes marketplace section with sites such as Freelancer and oDesk
 - [blog post with remote job sites and marketplaces](https://skillcrush.com/2014/10/10/sites-finding-remote-work/)
- - [BreakoutList](https://breakoutlist.com/)
- - [KeyValues/CultureQueries](https://www.keyvalues.com/culture-queries/) - interview questions to ask
+- [BreakoutList](https://breakoutlist.com/)
+- [KeyValues/CultureQueries](https://www.keyvalues.com/culture-queries/) - interview questions to ask
+   - [ay](https://news.ycombinator.com/item?id=19048108)
 - [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [Indie-Ignitor (plugin marketplaces)](https://indie-ignitor.com/marketplaces) 
 - [ReferralHunt](https://referralhunt.co/)
