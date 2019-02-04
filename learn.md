@@ -143,3 +143,4 @@
 - [HackSource](https://hacksource.xyz/)
 - [12factor](https://www.12factor.net/)
 - [How to Make a Computer Operating System repo](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+- [PapersWithCode](https://paperswithcode.com/)
