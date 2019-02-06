@@ -22,6 +22,11 @@
 - [EventedMind](https://www.eventedmind.com/)
 - [SkillShare](https://www.skillshare.com/)
 
+### Physical
+
+- [Recurse Center](https://www.recurse.com/)
+- [School For Poetic Computation](http://sfpc.io/)
+
 ## Github Repos
 - [my stars](https://github.com/Froren?tab=stars)
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
