@@ -49,6 +49,7 @@
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 - [professional-programming](https://github.com/charlax/professional-programming)
+- [Computer_Science_Web_Resources](https://github.com/the-akira/Computer_Science_Web_Resources)
 
 ## General websites
 - [/r/learnprogramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_other_resources)
