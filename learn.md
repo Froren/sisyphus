@@ -102,6 +102,7 @@
 - [netsec sub wiki](https://www.reddit.com/r/netsec/wiki/start)
 - [howtohack sub sidebar](https://www.reddit.com/r/HowToHack/)
 - [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
+- [Security_Engineer_Interview_Questions](https://github.com/tadwhitaker/Security_Engineer_Interview_Questions)
 ----
 - [awesome-cryptocurrency-security](https://github.com/nongiach/awesome-cryptocurrency-security)
 
