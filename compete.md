@@ -48,6 +48,7 @@
 - [DevPost](https://devpost.com/hackathons)
 - [Hackathon.io](http://www.hackathon.io/events)
 - [Kaggle (Data science competitions)](https://www.kaggle.com/competitions)
+- [Hackster.io](https://www.hackster.io/) - projects and stuff!
 
 ## Localized
 - [Eventbrite (Search hackathons or game jams)](https://www.eventbrite.com/)
