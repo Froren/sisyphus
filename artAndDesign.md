@@ -117,3 +117,4 @@
 - Check stars
 - [The Useless Web](https://theuselessweb.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
+- [thispersondoesnotexist](https://thispersondoesnotexist.com/) / [waifu](http://www.thiswaifudoesnotexist.net/)
