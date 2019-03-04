@@ -1,9 +1,14 @@
-- [Awwwards](https://www.awwwards.com/websites/)
-- [GearAward](http://gearaward.com/)
-- [Marpi](https://marpi.pl/)
-- [Ncase](http://ncase.me/)
-- [CoDrops](https://tympanus.net/codrops/)
+### Communities
+
 - [DesignerNews](https://www.designernews.co/)
+- [lines.co](https://llllllll.co/c/tech) - lobsters-esque community
+
+------
+
+### Interative Experiences
+
+- [onedome](https://onedome.global/)
+- [Meow Wolf](https://santafe.meowwolf.com/)
 
 ------
 
@@ -11,6 +16,7 @@
 
 - [js13kgames](http://js13kgames.com/)
 - [Ludum Dare](http://ludumdare.com/compo/)
+
 ------
 
 ### Repos
@@ -46,6 +52,7 @@
 - [pixi.js](https://github.com/pixijs/pixi.js)
 - [phaser](https://github.com/photonstorm/phaser)
 - [lines.co link about art tools that are web apps](https://llllllll.co/t/web-apps-for-music-video-etc-making/18096)
+
 ------
 
 ### UX/Landing Pages
@@ -57,6 +64,7 @@
 - [Cruip](https://cruip.com/)
 - [Formico referral site](https://formico.io/landing-page-inspiration/)
 - [sndrgb](http://sndrgb.com/)
+
 ------
 
 ### Website gallery
@@ -70,6 +78,8 @@
 #### Curations
 
 - [Google's Art & Culture experiments](https://experiments.withgoogle.com/collection/arts-culture)
+- [Awwwards](https://www.awwwards.com/websites/)
+- [GearAward](http://gearaward.com/)
 
 #### Shaders/Demos
 
@@ -78,9 +88,10 @@
 
 ------
 
-### Instructional
+### Instructional/Tutorials
 
 - [IndieHackers - how did you learn design](https://www.indiehackers.com/forum/how-did-you-learn-design-4e2da7b429)
+- [CoDrops](https://tympanus.net/codrops/)
 
 ------
 
@@ -108,6 +119,7 @@
 - [MET](https://www.metmuseum.org/art/collection/)
 - [Art Institute of Chicago](https://www.artic.edu/collection)
 - [Patterns In Islamic Art](https://patterninislamicart.com/)
+
 ------
 
 ##### Misc
@@ -122,3 +134,5 @@
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [thispersondoesnotexist](https://thispersondoesnotexist.com/) / [waifu](http://www.thiswaifudoesnotexist.net/)
 - [graffitiremovals](https://graffitiremovals.org/)
+- [Ncase](http://ncase.me/)
+- [Marpi](https://marpi.pl/)
