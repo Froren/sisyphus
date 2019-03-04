@@ -41,11 +41,11 @@
 
 ------
 
-### Engines
+### Engines/Tools
 
 - [pixi.js](https://github.com/pixijs/pixi.js)
 - [phaser](https://github.com/photonstorm/phaser)
-
+- [lines.co link about art tools that are web apps](https://llllllll.co/t/web-apps-for-music-video-etc-making/18096)
 ------
 
 ### UX/Landing Pages
@@ -56,13 +56,16 @@
 - [Muzli](https://medium.muz.li/)
 - [Cruip](https://cruip.com/)
 - [Formico referral site](https://formico.io/landing-page-inspiration/)
-
+- [sndrgb](http://sndrgb.com/)
 ------
 
 ### Website gallery
 
 - [Museum of websites](https://www.kapwing.com/museum-of-websites)
 - [Brutalist websites](http://brutalistwebsites.com/)
+- [Christmas Experiments](https://christmasexperiments.com/)
+- [hoverstat.es](https://hoverstat.es/)
+- [httpster](https://httpster.net/)
 
 #### Curations
 
@@ -118,3 +121,4 @@
 - [The Useless Web](https://theuselessweb.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [thispersondoesnotexist](https://thispersondoesnotexist.com/) / [waifu](http://www.thiswaifudoesnotexist.net/)
+- [graffitiremovals](https://graffitiremovals.org/)
