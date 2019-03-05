@@ -44,6 +44,7 @@
 - [awesome-casestudy](https://github.com/luruke/awesome-casestudy)
 - [creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes)
 - [yiwenl/Sketches](https://github.com/yiwenl/Sketches)
+- [interactive-art-resources](https://github.com/hopelessoptimism/interactive-art-resources)
 
 ------
 
