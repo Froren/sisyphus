@@ -45,6 +45,7 @@
 - [creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes)
 - [yiwenl/Sketches](https://github.com/yiwenl/Sketches)
 - [interactive-art-resources](https://github.com/hopelessoptimism/interactive-art-resources)
+- [awesome-webgl](https://github.com/sjfricke/awesome-webgl)
 
 ------
 
