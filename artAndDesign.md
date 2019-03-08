@@ -46,6 +46,7 @@
 - [yiwenl/Sketches](https://github.com/yiwenl/Sketches)
 - [interactive-art-resources](https://github.com/hopelessoptimism/interactive-art-resources)
 - [awesome-webgl](https://github.com/sjfricke/awesome-webgl)
+- [awesome-design-tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 
 ------
 
