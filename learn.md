@@ -127,6 +127,7 @@
 - [Gainlo Blog - system design questions](http://blog.gainlo.co/index.php/category/system-design-interview-questions/)
 - [blogs](https://github.com/Froren/sisyphus/blob/master/learn.md#passive)
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories)
+- [awesome-monorepo](https://github.com/korfuri/awesome-monorepo)
 ----
 - [StackShare](https://stackshare.io/)
 - [BuiltWith](https://builtwith.com/)
