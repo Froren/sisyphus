@@ -70,6 +70,7 @@
 - [HN](https://news.ycombinator.com/)
 - [Lobste.rs](https://lobste.rs/); [sister sites](https://github.com/lobsters/lobsters/wiki)
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+- [awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs)
 
 ## Newsletters
 - [the-morning-paper](https://blog.acolyer.org/)
