@@ -153,3 +153,4 @@
 - [12factor](https://www.12factor.net/)
 - [How to Make a Computer Operating System repo](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 - [PapersWithCode](https://paperswithcode.com/)
+- [DeadlockEmpire](https://github.com/deadlockempire/deadlockempire.github.io)
