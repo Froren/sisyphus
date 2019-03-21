@@ -50,6 +50,10 @@
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 - [professional-programming](https://github.com/charlax/professional-programming)
 - [Computer_Science_Web_Resources](https://github.com/the-akira/Computer_Science_Web_Resources)
+- [js-dev-reads](https://github.com/twhite96/js-dev-reads)
+- [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
+- [awesome-webaudio](https://github.com/notthetup/awesome-webaudio)
+- [BEM-resources](https://github.com/sturobson/BEM-resources)
 
 ## General websites
 - [/r/learnprogramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_other_resources)
