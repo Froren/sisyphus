@@ -127,6 +127,7 @@
 - [ProductHunt](https://www.producthunt.com/)
 - [BetaList](https://betalist.com/)
 - [Submit.co](https://submit.co/) - places to post your startup
+- [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup)
 
 ### Marketplaces
 
@@ -143,8 +144,6 @@
 
 ### Misc
 
-- [DemandRush](https://www.demandrush.com/)
-   - [demandRush HN thread](https://news.ycombinator.com/item?id=14552615)
 - [OppsDaily](http://www.oppsdaily.com/)
 - [BountySource](https://www.bountysource.com/)
 - [LanceList](http://www.lancelist.com/)
@@ -153,6 +152,5 @@
 - [BreakoutList](https://breakoutlist.com/)
 - [KeyValues/CultureQueries](https://www.keyvalues.com/culture-queries/) - interview questions to ask
    - [ay](https://news.ycombinator.com/item?id=19048108)
-- [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [Indie-Ignitor (plugin marketplaces)](https://indie-ignitor.com/marketplaces) 
 - [ReferralHunt](https://referralhunt.co/)
