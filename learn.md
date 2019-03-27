@@ -83,6 +83,7 @@
 - [dev mastery](https://www.devmastery.com/)
 - [git-logs newsletter](http://www.gitlogs.com/)
 - [stratechery](https://stratechery.com/)
+- [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)
 
 ## Books 
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
