@@ -135,6 +135,7 @@
 - [blogs](https://github.com/Froren/sisyphus/blob/master/learn.md#passive)
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories)
 - [awesome-monorepo](https://github.com/korfuri/awesome-monorepo)
+- [Architecture of Open Source Applications book](http://aosabook.org/en/index.html)
 ----
 - [StackShare](https://stackshare.io/)
 - [BuiltWith](https://builtwith.com/)
