@@ -5,6 +5,7 @@
 - [Scapple](https://www.literatureandlatte.com/scapple/overview)
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
 - [free-for-dev](https://github.com/ripienaar/free-for-dev)
+- [game-datasets](https://github.com/leomaurodesenv/game-datasets)
 
 # Web
 
