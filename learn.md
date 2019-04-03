@@ -136,6 +136,8 @@
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories)
 - [awesome-monorepo](https://github.com/korfuri/awesome-monorepo)
 - [Architecture of Open Source Applications book](http://aosabook.org/en/index.html)
+- [awesome-web-performance-metrics](https://github.com/csabapalfi/awesome-web-performance-metrics)
+
 ----
 - [StackShare](https://stackshare.io/)
 - [BuiltWith](https://builtwith.com/)
