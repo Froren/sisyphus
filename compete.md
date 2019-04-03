@@ -10,7 +10,7 @@
 - [CodeCombat](https://codecombat.com/)
 - [CodeEval](https://www.codeeval.com/)
 - [CodeFights](https://codefights.com/)
-- [CodeForces](http://codeforces.com/problemset)
+- [CodeForces](http://codeforces.com/problemset) - [blog entry with more resources](https://codeforces.com/blog/entry/23054)
 - [CodeWars](https://www.codewars.com/)
 - [CoderByte](https://coderbyte.com/)
 - [Codility](https://codility.com/programmers/challenges/)
