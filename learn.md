@@ -54,6 +54,7 @@
 - [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
 - [awesome-webaudio](https://github.com/notthetup/awesome-webaudio)
 - [BEM-resources](https://github.com/sturobson/BEM-resources)
+- [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js)
 
 ## General websites
 - [/r/learnprogramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_other_resources)
