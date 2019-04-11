@@ -128,6 +128,7 @@
 - [BetaList](https://betalist.com/)
 - [Submit.co](https://submit.co/) - places to post your startup
 - [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup)
+- [NewsletterGuide](https://newsletterguide.org/)
 
 ### Marketplaces
 
