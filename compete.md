@@ -42,6 +42,7 @@
 - [CryptoPals](https://cryptopals.com/)
 - [FrontendMentor](https://www.frontendmentor.io/)
 - [HackerFire](https://hackerfire.com/)
+- [CSSBattle](https://cssbattle.dev/)
 
 # Hackathons
 - [ChallengeRocket](https://challengerocket.com/list.html)
