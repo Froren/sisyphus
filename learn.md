@@ -26,6 +26,7 @@
 
 - [Recurse Center](https://www.recurse.com/)
 - [School For Poetic Computation](http://sfpc.io/)
+- [Grey Area](https://grayarea.org/)
 
 ## Github Repos
 - [my stars](https://github.com/Froren?tab=stars)
