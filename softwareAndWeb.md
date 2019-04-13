@@ -40,6 +40,7 @@
 - [Thought Train](https://www.thoughttrain.cc/) [[MenuBarList](http://menubarlist.com/)] 
 - [Hemisphere](https://hemisphereapp.com/)
 - [200wordsaday](https://200wordsaday.com/)
+- [anything.pub](https://anything.pub/)
 
 ### Hosting
 
