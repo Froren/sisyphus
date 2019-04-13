@@ -32,7 +32,6 @@
 - [my stars](https://github.com/Froren?tab=stars)
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
 - [Open Source Society - Computer Science](https://github.com/open-source-society/computer-science)
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#moocs-for-learning-something-new)
 - [one-click-to-be-a-pro](https://github.com/vic317yeh/One-Click-to-Be-Pro)
 - [learn-anything](https://github.com/nikitavoloboev/learn-anything)
@@ -97,6 +96,8 @@
 - [Refactoring.guru](https://refactoring.guru/)
 - [/r/learnprogramming books](https://www.reddit.com/r/learnprogramming/wiki/books)
 - [Technical-eBooks](https://github.com/devharsh/Technical-eBooks)
+- [awesome-programming-books](https://github.com/majikarp/awesome-programming-books)
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
 ### [Graphics/Art](https://github.com/Froren/sisyphus/blob/master/artAndDesign.md)
 
