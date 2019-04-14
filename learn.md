@@ -143,6 +143,7 @@
 
 ----
 - [StackShare](https://stackshare.io/)
+   - [awesome-stacks](https://github.com/stackshareio/awesome-stacks)
 - [BuiltWith](https://builtwith.com/)
 - [StartupCosts](https://www.startupcosts.co/)
 - [Siftery](https://siftery.com/)
