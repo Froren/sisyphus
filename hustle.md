@@ -90,6 +90,12 @@
 - [mock-interview-questions](https://github.com/charliegerard/mock-interview-questions) - links to challenge sites
 - [FAQGURU](https://github.com/FAQGURU/FAQGURU)
 
+#### Questions for companies
+
+- [interview-questions-for-employer](https://github.com/lkostrowski/interview-questions-for-employer)
+- [KeyValues/CultureQueries](https://www.keyvalues.com/culture-queries/)
+   - [ay](https://news.ycombinator.com/item?id=19048108)
+
 #### Misc
 
 - [blog](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f) [posts](https://blog.usejournal.com/i-interviewed-at-six-top-companies-in-silicon-valley-in-six-days-and-stumbled-into-six-job-offers-fe9cc7bbc996) about interviewing 
@@ -151,7 +157,5 @@
   - Includes marketplace section with sites such as Freelancer and oDesk
 - [blog post with remote job sites and marketplaces](https://skillcrush.com/2014/10/10/sites-finding-remote-work/)
 - [BreakoutList](https://breakoutlist.com/)
-- [KeyValues/CultureQueries](https://www.keyvalues.com/culture-queries/) - interview questions to ask
-   - [ay](https://news.ycombinator.com/item?id=19048108)
 - [Indie-Ignitor (plugin marketplaces)](https://indie-ignitor.com/marketplaces) 
 - [ReferralHunt](https://referralhunt.co/)
