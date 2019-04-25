@@ -106,6 +106,7 @@
 - [Picular](https://picular.co/)
 - [icons8](https://icons8.com/)
 - [awesome-icons](https://github.com/notlmn/awesome-icons)
+- [ikonate](https://github.com/mikolajdobrucki/ikonate)
 
 ------
 
