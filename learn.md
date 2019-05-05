@@ -148,10 +148,11 @@
 - [StartupCosts](https://www.startupcosts.co/)
 - [Siftery](https://siftery.com/)
 
-### Career Development
+### Misc Career Development
 - [DevToManager](https://devtomanager.com/)
 - [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)
 - [engineering-management](https://github.com/charlax/engineering-management)
+- [awesome-product-management](https://github.com/bjpcjp/awesome-product-management)
 
 ## Misc
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
