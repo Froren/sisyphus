@@ -114,6 +114,9 @@
 - [the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
 - [Security_Engineer_Interview_Questions](https://github.com/tadwhitaker/Security_Engineer_Interview_Questions)
 - [awesome-devsecops](https://github.com/devsecops/awesome-devsecops)
+- [malware-techniques](https://github.com/alichtman/malware-techniques)
+- [al-khaser](https://github.com/LordNoteworthy/al-khaser)
+
 ----
 - [awesome-cryptocurrency-security](https://github.com/nongiach/awesome-cryptocurrency-security)
 
