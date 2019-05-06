@@ -153,6 +153,7 @@
 - [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)
 - [engineering-management](https://github.com/charlax/engineering-management)
 - [awesome-product-management](https://github.com/bjpcjp/awesome-product-management)
+- [PM Starter Pack](https://pmstarterpack.onfielder.com/)
 
 ## Misc
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
