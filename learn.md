@@ -55,6 +55,8 @@
 - [awesome-webaudio](https://github.com/notthetup/awesome-webaudio)
 - [BEM-resources](https://github.com/sturobson/BEM-resources)
 - [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js)
+- [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
+- [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
 
 ## General websites
 - [/r/learnprogramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_other_resources)
@@ -69,6 +71,7 @@
 - [InfoWorld](http://www.infoworld.com/article/2614635/application-development/-200k-for-a-computer-science-degree--or-these-free-online-classes-.html)
 - [aGupieWare](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
 - [OpenCulture](http://www.openculture.com/computer_science_free_courses)
+- [Some random dude's google doc](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#gid=0)
 
 ## Passive
 - Reddit
@@ -98,6 +101,7 @@
 - [Technical-eBooks](https://github.com/devharsh/Technical-eBooks)
 - [awesome-programming-books](https://github.com/majikarp/awesome-programming-books)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [random dude's google doc](https://docs.google.com/spreadsheets/d/1jz2dyyDzgZS1zqe_vhY8SYQrhscNzpNfdAkGusWoMUU/edit#gid=0)
 
 ### [Graphics/Art](https://github.com/Froren/sisyphus/blob/master/artAndDesign.md)
 
@@ -144,6 +148,8 @@
 - [Architecture of Open Source Applications book](http://aosabook.org/en/index.html)
 - [awesome-web-performance-metrics](https://github.com/csabapalfi/awesome-web-performance-metrics)
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws)
+- [12factor](https://www.12factor.net/)
+- [DeadlockEmpire](https://github.com/deadlockempire/deadlockempire.github.io)
 
 ----
 - [StackShare](https://stackshare.io/)
@@ -162,14 +168,9 @@
 ## Misc
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [Funtoo articles (Linux)](http://www.funtoo.org/Category:Articles)
-- [Some random dude's google doc](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#gid=0)
 - [7 sites to help you focus](https://medium.com/statuscode/7-sites-to-help-you-relax-and-focus-whilst-programming-16057afe90da)
 - [MyBridge](https://www.mybridge.co/skills/javascript)
-- [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
-- [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
 - [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)
 - [HackSource](https://hacksource.xyz/)
-- [12factor](https://www.12factor.net/)
 - [How to Make a Computer Operating System repo](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 - [PapersWithCode](https://paperswithcode.com/)
-- [DeadlockEmpire](https://github.com/deadlockempire/deadlockempire.github.io)
