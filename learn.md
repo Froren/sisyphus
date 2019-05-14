@@ -143,6 +143,7 @@
 - [awesome-monorepo](https://github.com/korfuri/awesome-monorepo)
 - [Architecture of Open Source Applications book](http://aosabook.org/en/index.html)
 - [awesome-web-performance-metrics](https://github.com/csabapalfi/awesome-web-performance-metrics)
+- [hacker-laws](https://github.com/dwmkerr/hacker-laws)
 
 ----
 - [StackShare](https://stackshare.io/)
