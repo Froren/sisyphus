@@ -69,3 +69,4 @@
 - [RosettaCode](https://rosettacode.org/wiki/Rosetta_Code)
 - [interative-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 - [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
+- [gaerae/awesome-algorithms](https://github.com/gaerae/awesome-algorithms) - catchy name I guess.
