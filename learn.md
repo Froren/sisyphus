@@ -120,6 +120,7 @@
 - [awesome-devsecops](https://github.com/devsecops/awesome-devsecops)
 - [malware-techniques](https://github.com/alichtman/malware-techniques)
 - [al-khaser](https://github.com/LordNoteworthy/al-khaser)
+- [Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources)
 
 ----
 - [awesome-cryptocurrency-security](https://github.com/nongiach/awesome-cryptocurrency-security)
