@@ -167,6 +167,7 @@
 - [engineering-management](https://github.com/charlax/engineering-management)
 - [awesome-product-management](https://github.com/bjpcjp/awesome-product-management)
 - [PM Starter Pack](https://pmstarterpack.onfielder.com/)
+- [awesome-product-design](https://github.com/teoga/awesome-product-design)
 
 ## Misc
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
