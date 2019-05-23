@@ -152,6 +152,7 @@
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws)
 - [12factor](https://www.12factor.net/)
 - [DeadlockEmpire](https://github.com/deadlockempire/deadlockempire.github.io)
+- [resilience-engineering](https://github.com/lorin/resilience-engineering)
 
 ----
 - [StackShare](https://stackshare.io/)
