@@ -161,6 +161,9 @@
 - [StartupCosts](https://www.startupcosts.co/)
 - [Siftery](https://siftery.com/)
 
+### Data
+- [DS100 Textbook](https://www.textbook.ds100.org/)
+
 ### Misc Career Development
 - [DevToManager](https://devtomanager.com/)
 - [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)
