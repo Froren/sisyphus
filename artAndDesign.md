@@ -108,6 +108,7 @@
 - [awesome-icons](https://github.com/notlmn/awesome-icons)
 - [ikonate](https://github.com/mikolajdobrucki/ikonate)
 - [Undesign](https://undesign.learn.uno/)
+- [CSSFX](https://cssfx.dev/)
 
 ------
 
