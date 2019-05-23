@@ -121,6 +121,7 @@
 - [malware-techniques](https://github.com/alichtman/malware-techniques)
 - [al-khaser](https://github.com/LordNoteworthy/al-khaser)
 - [Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources)
+- [The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
 
 ----
 - [awesome-cryptocurrency-security](https://github.com/nongiach/awesome-cryptocurrency-security)
