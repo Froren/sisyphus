@@ -63,6 +63,7 @@
 - [10x](https://www.10xmanagement.com)
 - [WorkingNotWorking](https://workingnotworking.com/)
 - [Woo](https://woo.io/)
+- [Vettery](https://www.vettery.com/)
 
 ### Interviews
 
