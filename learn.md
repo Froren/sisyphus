@@ -72,6 +72,7 @@
 - [aGupieWare](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
 - [OpenCulture](http://www.openculture.com/computer_science_free_courses)
 - [Some random dude's google doc](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#gid=0)
+- [functionalcs](https://functionalcs.github.io/curriculum/)
 
 ## Passive
 - Reddit
