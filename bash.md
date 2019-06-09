@@ -9,6 +9,7 @@
 - [Terminals are sexy](https://github.com/k4m4/terminals-are-sexy)
 - [Explainshell utility](https://github.com/idank/explainshell)
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing)
+- [bash-commons](https://github.com/gruntwork-io/bash-commons)
 
 
 ##### Others
