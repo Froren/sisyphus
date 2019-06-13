@@ -57,6 +57,7 @@
 - [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js)
 - [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions)
 
 ## General websites
 - [/r/learnprogramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_other_resources)
