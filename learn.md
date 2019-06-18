@@ -79,6 +79,8 @@
 - Reddit
 - [HN](https://news.ycombinator.com/)
 - [Lobste.rs](https://lobste.rs/); [sister sites](https://github.com/lobsters/lobsters/wiki)
+- [Hacker Noon](https://hackernoon.com/)
+- [dev.to](https://dev.to/)
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
 - [awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs)
 
@@ -162,6 +164,7 @@
 - [BuiltWith](https://builtwith.com/)
 - [StartupCosts](https://www.startupcosts.co/)
 - [Siftery](https://siftery.com/)
+- [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)
 
 ### Data
 - [DS100 Textbook](https://www.textbook.ds100.org/)
@@ -179,7 +182,6 @@
 - [Funtoo articles (Linux)](http://www.funtoo.org/Category:Articles)
 - [7 sites to help you focus](https://medium.com/statuscode/7-sites-to-help-you-relax-and-focus-whilst-programming-16057afe90da)
 - [MyBridge](https://www.mybridge.co/skills/javascript)
-- [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)
 - [HackSource](https://hacksource.xyz/)
 - [How to Make a Computer Operating System repo](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 - [PapersWithCode](https://paperswithcode.com/)
