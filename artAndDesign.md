@@ -96,6 +96,7 @@
 
 - [IndieHackers - how did you learn design](https://www.indiehackers.com/forum/how-did-you-learn-design-4e2da7b429)
 - [CoDrops](https://tympanus.net/codrops/)
+- [principles.design](https://principles.design/)
 
 ------
 
@@ -126,6 +127,7 @@
 - [MET](https://www.metmuseum.org/art/collection/)
 - [Art Institute of Chicago](https://www.artic.edu/collection)
 - [Patterns In Islamic Art](https://patterninislamicart.com/)
+- [Wolfram Museum](http://www.wolfmanmuseum.org/) - not perfectly suited to this category.
 
 ------
 
@@ -145,4 +147,3 @@
 - [Marpi](https://marpi.pl/)
 - [Every Noise At Once](http://everynoise.com/)
 - [Greg Tatum](http://gregtatum.com/)
-- [Wolfram Museum](http://www.wolfmanmuseum.org/)
