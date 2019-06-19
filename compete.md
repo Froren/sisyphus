@@ -43,6 +43,7 @@
 - [FrontendMentor](https://www.frontendmentor.io/)
 - [HackerFire](https://hackerfire.com/)
 - [CSSBattle](https://cssbattle.dev/)
+- [reddit post about war games](https://www.reddit.com/r/HowToHack/comments/bw5osp/complete_list_of_war_games_wip06022019/)
 
 # Hackathons
 - [ChallengeRocket](https://challengerocket.com/list.html)
