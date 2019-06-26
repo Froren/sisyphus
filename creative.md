@@ -55,6 +55,7 @@
 - [Cruip](https://cruip.com/)
 - [Formico referral site](https://formico.io/landing-page-inspiration/)
 - [sndrgb](http://sndrgb.com/)
+- [buona](https://www.buona.co/)
 
 ### Personal Sites
 
