@@ -1,11 +1,11 @@
-### Art
+## Art
 
 - [awesome-generative-art](https://github.com/kosmos/awesome-generative-art)
 - [awesome-machine-learning-art](https://github.com/vibertthio/awesome-machine-learning-art)
 - [interactive-art-resources](https://github.com/hopelessoptimism/interactive-art-resources)
 - [generative-artistry](https://github.com/tholman/generative-artistry)
 
-#### Creative Coding
+### Creative Coding
 
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 - [creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes)
@@ -13,21 +13,21 @@
 - [awesome-interactive-journalism](https://github.com/wbkd/awesome-interactive-journalism)
 - [codedoodl.es](https://github.com/fluuuid/codedoodl.es)
 
-#### Specific Topics
+### Specific Topics
 
 - [awesome-glsl](https://github.com/radixzz/awesome-glsl)
 - [awesome-casestudy](https://github.com/luruke/awesome-casestudy)
 - [awesome-webgl](https://github.com/sjfricke/awesome-webgl)
 - [svg can do that?](http://slides.com/sdrasner/svg-can-do-that#/)
 
-##### Implementations
+#### Implementations
 
 - [yiwenl/Sketches](https://github.com/yiwenl/Sketches)
 - [eex](https://github.com/tofuness/eex)
 - [thispersondoesnotexist](https://thispersondoesnotexist.com/) / [waifu](http://www.thiswaifudoesnotexist.net/)
 - [Every Noise At Once](http://everynoise.com/)
 
-#### Visualizations 
+### Visualizations 
 
 - [AlgoVis](https://github.com/enjalot/algovis)
 - [Codeology](https://github.com/project-codeology/codeology)
