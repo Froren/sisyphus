@@ -71,6 +71,7 @@
 - [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 - [project-based-learning](https://github.com/tuvtran/project-based-learning)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
+- [PapersWithCode](https://paperswithcode.com/)
 
 ## Passive
 - Reddit; [awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits)
@@ -182,4 +183,3 @@
 - [7 sites to help you focus](https://medium.com/statuscode/7-sites-to-help-you-relax-and-focus-whilst-programming-16057afe90da)
 - [MyBridge](https://www.mybridge.co/skills/javascript)
 - [HackSource](https://hacksource.xyz/)
-- [PapersWithCode](https://paperswithcode.com/)
