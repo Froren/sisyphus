@@ -34,6 +34,7 @@
 - [UberViz](https://github.com/OpenDAWN/UberViz)
 - [pywonderland](https://github.com/neozhaoliang/pywonderland)
 - [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)
+- [visual-programming-codex](https://github.com/ivanreese/visual-programming-codex)
 
 ------
 
