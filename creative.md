@@ -1,54 +1,40 @@
-### Communities
+### Art
 
-- [DesignerNews](https://www.designernews.co/)
-- [lines.co](https://llllllll.co/c/tech) - lobsters-esque community
+- [awesome-generative-art](https://github.com/kosmos/awesome-generative-art)
+- [awesome-machine-learning-art](https://github.com/vibertthio/awesome-machine-learning-art)
+- [interactive-art-resources](https://github.com/hopelessoptimism/interactive-art-resources)
+- [generative-artistry](https://github.com/tholman/generative-artistry)
 
-------
-
-### Interative Experiences
-
-- [onedome](https://onedome.global/)
-- [Meow Wolf](https://santafe.meowwolf.com/)
-
-------
-
-### Game Jams
-
-- [js13kgames](http://js13kgames.com/)
-- [Ludum Dare](http://ludumdare.com/compo/)
-
-------
-
-### Repos
+#### Creative Coding
 
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
-- [awesome-generative-art](https://github.com/kosmos/awesome-generative-art)
-- [PortfolioExamples](https://github.com/dargaCode/PortfolioExamples)
-- [AlgoVis](https://github.com/enjalot/algovis)
-- [codedoodl.es](https://github.com/fluuuid/codedoodl.es)
-- [terkel's portfolio](https://github.com/terkelg/terkel.com-2016)
+- [creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes)
 - [CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection)
 - [awesome-interactive-journalism](https://github.com/wbkd/awesome-interactive-journalism)
-- [Codeology](https://github.com/project-codeology/codeology)
-- [eex](https://github.com/tofuness/eex)
-- [awk-raycaster](https://github.com/TheMozg/awk-raycaster)
-- [svg can do that?](http://slides.com/sdrasner/svg-can-do-that#/)
-- [UberViz](https://github.com/OpenDAWN/UberViz)
-- [pywonderland](https://github.com/neozhaoliang/pywonderland)
-- [People-You-Should-Follow-on-CodePen](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen)
-- [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)
-- [awesome-portfolios](https://github.com/iRaul/awesome-portfolios)
-- [generative-artistry](https://github.com/tholman/generative-artistry)
-- [awesome-machine-learning-art](https://github.com/vibertthio/awesome-machine-learning-art)
+- [codedoodl.es](https://github.com/fluuuid/codedoodl.es)
+
+#### Specific Topics
+
 - [awesome-glsl](https://github.com/radixzz/awesome-glsl)
 - [awesome-casestudy](https://github.com/luruke/awesome-casestudy)
-- [creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes)
-- [yiwenl/Sketches](https://github.com/yiwenl/Sketches)
-- [interactive-art-resources](https://github.com/hopelessoptimism/interactive-art-resources)
 - [awesome-webgl](https://github.com/sjfricke/awesome-webgl)
-- [awesome-design-tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
-- [typography](https://github.com/deanhume/typography)
-- [personalsit.es](https://github.com/andybelldesign/personalsit.es)
+- [svg can do that?](http://slides.com/sdrasner/svg-can-do-that#/)
+
+##### Implementations
+
+- [yiwenl/Sketches](https://github.com/yiwenl/Sketches)
+- [eex](https://github.com/tofuness/eex)
+- [thispersondoesnotexist](https://thispersondoesnotexist.com/) / [waifu](http://www.thiswaifudoesnotexist.net/)
+- [Every Noise At Once](http://everynoise.com/)
+
+#### Visualizations 
+
+- [AlgoVis](https://github.com/enjalot/algovis)
+- [Codeology](https://github.com/project-codeology/codeology)
+- [UberViz](https://github.com/OpenDAWN/UberViz)
+- [pywonderland](https://github.com/neozhaoliang/pywonderland)
+- [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)
+
 ------
 
 ### Engines/Tools
@@ -69,7 +55,24 @@
 - [Formico referral site](https://formico.io/landing-page-inspiration/)
 - [sndrgb](http://sndrgb.com/)
 
+### Personal Sites
+
+- [PortfolioExamples](https://github.com/dargaCode/PortfolioExamples)
+- [People-You-Should-Follow-on-CodePen](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen)
+- [awesome-portfolios](https://github.com/iRaul/awesome-portfolios)
+- [personalsit.es](https://github.com/andybelldesign/personalsit.es)
+- [terkel's portfolio](https://github.com/terkelg/terkel.com-2016)
+- [Ncase](http://ncase.me/)
+- [Greg Tatum](http://gregtatum.com/)
+
 ------
+
+### Museum Collections
+
+- [MET](https://www.metmuseum.org/art/collection/)
+- [Art Institute of Chicago](https://www.artic.edu/collection)
+- [Patterns In Islamic Art](https://patterninislamicart.com/)
+- [Wolfram Museum](http://www.wolfmanmuseum.org/) - not perfectly suited to this category.
 
 ### Website gallery
 
@@ -89,14 +92,17 @@
 
 - [ShaderToy](https://www.shadertoy.com/)
 - [Codepen](https://codepen.io/pens/following/)
+- [awk-raycaster](https://github.com/TheMozg/awk-raycaster)
 
 ------
 
-### Instructional/Tutorials
+### Design
 
 - [IndieHackers - how did you learn design](https://www.indiehackers.com/forum/how-did-you-learn-design-4e2da7b429)
 - [CoDrops](https://tympanus.net/codrops/)
 - [principles.design](https://principles.design/)
+- [awesome-design-tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+- [typography](https://github.com/deanhume/typography)
 
 ------
 
@@ -122,12 +128,25 @@
 
 ------
 
-### Museum Collections
+### Communities
 
-- [MET](https://www.metmuseum.org/art/collection/)
-- [Art Institute of Chicago](https://www.artic.edu/collection)
-- [Patterns In Islamic Art](https://patterninislamicart.com/)
-- [Wolfram Museum](http://www.wolfmanmuseum.org/) - not perfectly suited to this category.
+- [DesignerNews](https://www.designernews.co/)
+- [lines.co](https://llllllll.co/c/tech) - lobsters-esque community
+
+------
+
+### Interative Experiences
+
+- [onedome](https://onedome.global/)
+- [Meow Wolf](https://santafe.meowwolf.com/)
+- [Marpi](https://marpi.pl/)
+
+------
+
+### Game Jams
+
+- [js13kgames](http://js13kgames.com/)
+- [Ludum Dare](http://ludumdare.com/compo/)
 
 ------
 
@@ -141,9 +160,4 @@
 - Check stars
 - [The Useless Web](https://theuselessweb.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
-- [thispersondoesnotexist](https://thispersondoesnotexist.com/) / [waifu](http://www.thiswaifudoesnotexist.net/)
 - [graffitiremovals](https://graffitiremovals.org/)
-- [Ncase](http://ncase.me/)
-- [Marpi](https://marpi.pl/)
-- [Every Noise At Once](http://everynoise.com/)
-- [Greg Tatum](http://gregtatum.com/)
