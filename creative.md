@@ -93,6 +93,7 @@
 ## Literal Art
 
 - [Kitt Bennett](http://www.kittbennett.com/)
+- [Macenzo](https://www.instagram.com/Macenzo/)
 
 ### Museum Collections
 
