@@ -138,6 +138,7 @@
 - [stratechery](https://stratechery.com/)
 - [FoundersGrid](https://saasicorn.com/founders-grid/)
 - [How It Actually Works](https://www.howitactuallyworks.com/)
+- [Ryan Robinson](https://www.ryrob.com/)
 
 #### Products and Growth Hacking
 
