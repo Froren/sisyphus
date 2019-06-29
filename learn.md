@@ -164,7 +164,7 @@
 - [StackShare](https://stackshare.io/)
    - [awesome-stacks](https://github.com/stackshareio/awesome-stacks)
 - [BuiltWith](https://builtwith.com/)
-- [StartupCosts](https://www.startupcosts.co/)
+- [StartupCosts](https://www.startupcosts.co/open)
 - [Siftery](https://siftery.com/)
 - [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)
 
