@@ -91,6 +91,7 @@
 - [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)
 - [Morning Cup of Coding](https://morningcupofcoding.com/)
 - [TLDR](https://www.tldrnewsletter.com/)
+- [Pointer](http://www.pointer.io/)
 
 ## Books 
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
