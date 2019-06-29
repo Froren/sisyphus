@@ -86,11 +86,11 @@
 ## Newsletters
 - [the-morning-paper](https://blog.acolyer.org/)
 - [Human Readable](https://www.humanreadablemag.com/)
-- [10words](https://10words.io/)
 - [dev mastery](https://www.devmastery.com/)
 - [git-logs newsletter](http://www.gitlogs.com/)
-- [stratechery](https://stratechery.com/)
 - [awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)
+- [Morning Cup of Coding](https://morningcupofcoding.com/)
+- [TLDR](https://www.tldrnewsletter.com/)
 
 ## Books 
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
