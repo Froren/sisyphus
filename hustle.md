@@ -130,6 +130,14 @@
 - [WarriorForum](https://www.warriorforum.com/feed/)
 - [StartupStash](http://startupstash.com/)
 
+##### Newsletters
+
+- Indiehackers
+- Starter Story
+- [10words](https://10words.io/)
+- [stratechery](https://stratechery.com/)
+- [FoundersGrid](https://saasicorn.com/founders-grid/)
+
 #### Products and Growth Hacking
 
 - [ProductHunt](https://www.producthunt.com/)
