@@ -69,13 +69,6 @@
 
 ------
 
-### Museum Collections
-
-- [MET](https://www.metmuseum.org/art/collection/)
-- [Art Institute of Chicago](https://www.artic.edu/collection)
-- [Patterns In Islamic Art](https://patterninislamicart.com/)
-- [Wolfram Museum](http://www.wolfmanmuseum.org/) - not perfectly suited to this category.
-
 ### Website gallery
 
 - [Museum of websites](https://www.kapwing.com/museum-of-websites)
@@ -95,6 +88,19 @@
 - [ShaderToy](https://www.shadertoy.com/)
 - [Codepen](https://codepen.io/pens/following/)
 - [awk-raycaster](https://github.com/TheMozg/awk-raycaster)
+
+
+## Literal Art
+
+- [Kitt Bennett](http://www.kittbennett.com/)
+
+### Museum Collections
+
+- [MET](https://www.metmuseum.org/art/collection/)
+- [Art Institute of Chicago](https://www.artic.edu/collection)
+- [Patterns In Islamic Art](https://patterninislamicart.com/)
+- [Wolfram Museum](http://www.wolfmanmuseum.org/) - not perfectly suited to this category.
+
 
 ------
 
