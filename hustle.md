@@ -137,6 +137,7 @@
 - [10words](https://10words.io/)
 - [stratechery](https://stratechery.com/)
 - [FoundersGrid](https://saasicorn.com/founders-grid/)
+- [How It Actually Works](https://www.howitactuallyworks.com/)
 
 #### Products and Growth Hacking
 
