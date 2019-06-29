@@ -28,6 +28,7 @@
 - [jekyllthemes](https://jekyllthemes.io/)
 - [Wigle](wigle.net)
 - [ThingDB](https://thingdb.io/)
+- [versus](http://versusutil.com/)
 ----
 - [State Of JS](https://stateofjs.com/)
 - [Best Of JS](https://bestofjs.org/)
