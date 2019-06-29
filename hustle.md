@@ -34,6 +34,7 @@
 - [NomadList](https://nomadlist.com/) - also lists working locations within a given city
 - [WorkFrom](https://workfrom.co/)
 - [LittleWorkspace](https://www.littleworkspace.com/)
+- [Remote.tools](https://www.remote.tools/)
 
 ### Non-Remote
 
