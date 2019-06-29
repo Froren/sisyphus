@@ -113,6 +113,10 @@
 - [awesome-design-tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 - [typography](https://github.com/deanhume/typography)
 
+#### Newsletters
+
+- [DenseDiscovery](https://www.densediscovery.com/)
+
 ------
 
 ### Resources
