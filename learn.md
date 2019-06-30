@@ -39,6 +39,7 @@
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions)
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 - [js-dev-reads](https://github.com/twhite96/js-dev-reads)
+- [lets-build-express](https://github.com/antsmartian/lets-build-express)
 - [Project-Based-Tutorials-in-C](https://github.com/rby90/Project-Based-Tutorials-in-C)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
