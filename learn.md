@@ -54,6 +54,10 @@
 - [School For Poetic Computation](http://sfpc.io/)
 - [Grey Area](https://grayarea.org/)
 
+#### Conferences
+
+- [confs.tech](https://github.com/tech-conferences/confs.tech)
+
 ## General
 - [my stars](https://github.com/Froren?tab=stars)
 - [/r/learnprogramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/index#wiki_other_resources)
