@@ -63,6 +63,7 @@
 - [git-extras](https://github.com/tj/git-extras)
 - [squashic's setup](https://github.com/pulsedemon/osx-setup)
 
+----
 - [awesome-uses](https://github.com/wesbos/awesome-uses)
 
 ### Ego Death
