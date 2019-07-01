@@ -137,6 +137,7 @@
 - [livecoders](https://github.com/toplap/livecoders)
 
 ### Scalability and System Design
+- [grokking-system-design](https://www.tuliren.net/grokking-system-design/)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
