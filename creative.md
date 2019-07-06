@@ -26,6 +26,7 @@
 - [eex](https://github.com/tofuness/eex)
 - [thispersondoesnotexist](https://thispersondoesnotexist.com/) / [waifu](http://www.thiswaifudoesnotexist.net/)
 - [Every Noise At Once](http://everynoise.com/)
+- [learningsynths](https://learningsynths.ableton.com/)
 
 ### Visualizations 
 
