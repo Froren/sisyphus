@@ -112,7 +112,7 @@
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [random dude's google doc](https://docs.google.com/spreadsheets/d/1jz2dyyDzgZS1zqe_vhY8SYQrhscNzpNfdAkGusWoMUU/edit#gid=0)
 
-### [Graphics/Art](https://github.com/Froren/sisyphus/blob/master/artAndDesign.md)
+### [Graphics/Art](https://github.com/Froren/sisyphus/blob/master/creative.md)
 
 ### Security
 - **[Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)**
