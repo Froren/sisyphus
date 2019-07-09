@@ -114,6 +114,8 @@
 - [principles.design](https://principles.design/)
 - [awesome-design-tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 - [typography](https://github.com/deanhume/typography)
+- [InVision blog](https://www.invisionapp.com/blog) - check out the newsletter too
+  - [DesignBetter](https://www.designbetter.co/)
 
 #### Newsletters
 
@@ -171,8 +173,6 @@
 - [R2D3](http://www.r2d3.us/)
 - [Dribbble](https://dribbble.com/)
 - [SIGBOVIK](http://www.sigbovik.org/)
-- [InVision blog](https://www.invisionapp.com/blog) - check out the newsletter too
-  - [DesignBetter](https://www.designbetter.co/)
 - Check stars
 - [The Useless Web](https://theuselessweb.com/)
 - [Smashing Magazine](https://www.smashingmagazine.com/)
