@@ -105,6 +105,7 @@
 - [[IndieHackers] What books do you recommend?](https://www.indiehackers.com/forum/what-books-do-you-recommend-4dfa511caa)
    - [Side Project Books](https://books.makesideproject.com/) 
    - [BestBusinessBooks](http://bestbusinessbooksever.com/)
+   - [The CEO Library](https://www.theceolibrary.com/)
 - [Refactoring.guru](https://refactoring.guru/)
 - [/r/learnprogramming books](https://www.reddit.com/r/learnprogramming/wiki/books)
 - [Technical-eBooks](https://github.com/devharsh/Technical-eBooks)
