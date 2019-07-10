@@ -10,7 +10,7 @@
 - [Explainshell utility](https://github.com/idank/explainshell)
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing)
 - [bash-commons](https://github.com/gruntwork-io/bash-commons)
-
+- [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
 
 ##### Others
 - [Ebook - Learn enough command line to be dangerous](https://www.learnenough.com/command-line-tutorial)
