@@ -91,6 +91,7 @@
 - [30-seconds-of-interviews](https://github.com/fejes713/30-seconds-of-interviews)
 - [mock-interview-questions](https://github.com/charliegerard/mock-interview-questions) - links to challenge sites
 - [FAQGURU](https://github.com/FAQGURU/FAQGURU)
+- [AlgoDaily](https://algodaily.com/)
 
 #### Questions for companies
 
