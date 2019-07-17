@@ -48,6 +48,7 @@
 - [F6S](https://www.f6s.com/jobs)
 - [WhoIsHiring](https://whoishiring.io/)
 - [Github jobs](https://jobs.github.com/)
+- [BreakoutList](https://breakoutlist.com/)
 ------
 - [Indeed](https://www.indeed.ca/)
 - [Workopolis](https://www.workopolis.com/en/)
@@ -170,6 +171,5 @@
 - [LanceList](http://www.lancelist.com/)
   - Includes marketplace section with sites such as Freelancer and oDesk
 - [blog post with remote job sites and marketplaces](https://skillcrush.com/2014/10/10/sites-finding-remote-work/)
-- [BreakoutList](https://breakoutlist.com/)
 - [Indie-Ignitor (plugin marketplaces)](https://indie-ignitor.com/marketplaces) 
 - [ReferralHunt](https://referralhunt.co/)
