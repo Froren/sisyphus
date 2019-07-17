@@ -20,6 +20,7 @@
 - [awesome-casestudy](https://github.com/luruke/awesome-casestudy)
 - [awesome-webgl](https://github.com/sjfricke/awesome-webgl)
 - [svg can do that?](http://slides.com/sdrasner/svg-can-do-that#/)
+- [webgl2-fundamentals](https://github.com/gfxfundamentals/webgl2-fundamentals)
 
 #### Implementations
 
