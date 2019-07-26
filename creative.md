@@ -29,6 +29,7 @@
 - [thispersondoesnotexist](https://thispersondoesnotexist.com/) / [waifu](http://www.thiswaifudoesnotexist.net/)
 - [Every Noise At Once](http://everynoise.com/)
 - [learningsynths](https://learningsynths.ableton.com/)
+- [supercolony](https://www.supercolony.co/)
 
 ### Visualizations 
 
@@ -67,12 +68,12 @@
 - [awesome-portfolios](https://github.com/iRaul/awesome-portfolios)
 - [personalsit.es](https://github.com/andybelldesign/personalsit.es)
 - [terkel's portfolio](https://github.com/terkelg/terkel.com-2016)
-- [Ncase](http://ncase.me/)
 - [Greg Tatum](http://gregtatum.com/)
 
 #### Explorables
 
 - [pudding.cool](https://pudding.cool/)
+- [Ncase](http://ncase.me/)
 
 ------
 
