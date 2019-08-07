@@ -68,7 +68,7 @@
 - [Woo](https://woo.io/)
 - [Vettery](https://www.vettery.com/)
 
-### Interviews
+### Interviews/Theoretical Foundations
 
 - [learn](https://github.com/Froren/sisyphus/blob/master/learn.md); [compete](https://github.com/Froren/sisyphus/blob/master/compete.md)
 - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
@@ -94,6 +94,7 @@
 - [mock-interview-questions](https://github.com/charliegerard/mock-interview-questions) - links to challenge sites
 - [FAQGURU](https://github.com/FAQGURU/FAQGURU)
 - [AlgoDaily](https://algodaily.com/)
+- [dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
 
 #### Questions for companies
 
