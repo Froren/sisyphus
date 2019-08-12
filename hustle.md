@@ -134,6 +134,7 @@
 - [20 best business podcasts of 2015...](https://www.inc.com/travis-wright/19-best-business-podcasts-of-2015-to-stuff-yourself-with-during-your-holiday-tra.html)
 - [WarriorForum](https://www.warriorforum.com/feed/)
 - [StartupStash](http://startupstash.com/)
+- [MarketingExamples](https://marketingexamples.com/)
 
 ##### Newsletters
 
@@ -152,6 +153,7 @@
 - [Submit.co](https://submit.co/) - places to post your startup
 - [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [NewsletterGuide](https://newsletterguide.org/)
+- MarketingExamples
 
 ### Marketplaces
 
