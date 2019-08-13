@@ -31,6 +31,7 @@
 - [versus](http://versusutil.com/)
 - [carrd](https://carrd.co/)
 - [Photopea](https://www.photopea.com/)
+- [cool-sites](https://github.com/thehandsomepanther/cool-sites)
 ----
 - [State Of JS](https://stateofjs.com/)
 - [Best Of JS](https://bestofjs.org/)
@@ -45,6 +46,7 @@
 - [200wordsaday](https://200wordsaday.com/)
 - [anything.pub](https://anything.pub/)
 - [m28.studio](https://m28.studio/)
+- [binb](https://github.com/lpinca/binb)
 
 ### Hosting
 
