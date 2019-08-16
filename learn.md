@@ -78,6 +78,7 @@
 - [project-based-learning](https://github.com/tuvtran/project-based-learning)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [PapersWithCode](https://paperswithcode.com/)
+- [programming projects for advanced beginners](https://robertheaton.com/2018/12/08/programming-projects-for-advanced-beginners/)
 
 ## Passive
 - Reddit; [awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits)
