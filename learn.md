@@ -35,6 +35,10 @@
 - [open-source-cs](https://github.com/ForrestKnight/open-source-cs)
 - [Computer_Science_Web_Resources](https://github.com/the-akira/Computer_Science_Web_Resources)
 
+----
+
+- [No CS Degree](https://www.nocsdegree.com/)
+
 ### Specific Topics
 - [useful-java-links](https://github.com/Vedenin/useful-java-links)
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions)
