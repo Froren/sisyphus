@@ -193,6 +193,7 @@
 - [awesome-product-management](https://github.com/bjpcjp/awesome-product-management)
 - [PM Starter Pack](https://pmstarterpack.onfielder.com/)
 - [awesome-product-design](https://github.com/teoga/awesome-product-design)
+- [open-product-management](https://github.com/ProductHired/open-product-management)
 
 ## Misc
 - [Funtoo articles (Linux)](http://www.funtoo.org/Category:Articles)
