@@ -154,6 +154,7 @@
 - [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [NewsletterGuide](https://newsletterguide.org/)
 - MarketingExamples
+- [feedback.exchange](https://www.feedback.exchange/)
 
 ### Marketplaces
 
