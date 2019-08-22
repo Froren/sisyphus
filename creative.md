@@ -69,6 +69,8 @@
 - [personalsit.es](https://github.com/andybelldesign/personalsit.es)
 - [terkel's portfolio](https://github.com/terkelg/terkel.com-2016)
 - [Greg Tatum](http://gregtatum.com/)
+- [strml.net](https://github.com/STRML/strml.net)
+- [doqk.ml](http://www.doqk.ml/)
 
 #### Explorables
 
