@@ -101,6 +101,7 @@
 - [interview-questions-for-employer](https://github.com/lkostrowski/interview-questions-for-employer)
 - [KeyValues/CultureQueries](https://www.keyvalues.com/culture-queries/)
    - [ay](https://news.ycombinator.com/item?id=19048108)
+- [reverse-interview](https://github.com/viraptor/reverse-interview)
 
 #### Misc
 
