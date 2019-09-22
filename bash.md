@@ -11,6 +11,7 @@
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing)
 - [bash-commons](https://github.com/gruntwork-io/bash-commons)
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
+- [pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible)
 
 ##### Others
 - [Ebook - Learn enough command line to be dangerous](https://www.learnenough.com/command-line-tutorial)
