@@ -71,6 +71,7 @@
 - [Greg Tatum](http://gregtatum.com/)
 - [strml.net](https://github.com/STRML/strml.net)
 - [doqk.ml](http://www.doqk.ml/)
+- [developer-portfolios](https://github.com/emmawedekind/developer-portfolios)
 
 #### Explorables
 
