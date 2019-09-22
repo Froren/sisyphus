@@ -72,6 +72,7 @@
 - [strml.net](https://github.com/STRML/strml.net)
 - [doqk.ml](http://www.doqk.ml/)
 - [developer-portfolios](https://github.com/emmawedekind/developer-portfolios)
+- [humans.fyi](https://humans.fyi/)
 
 #### Explorables
 
