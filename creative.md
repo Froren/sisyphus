@@ -146,6 +146,7 @@
 - [CSSFX](https://cssfx.dev/)
 - [Creary](https://creary.net)
 - [gradients.design](https://gradients.design/)
+- [generated.photos](https://generated.photos/)
 
 ------
 
