@@ -30,6 +30,7 @@
 - [Who Is Hiring](https://whoishiring.io/search/-1.2999/-32.6511/2?remote=true)
 - [HiringRemotely](https://www.hiringremote.ly/)
 - [RemoteMore](https://remotemore.com)
+- [established-remote](https://github.com/yanirs/established-remote)
 
 #### Working Remotely
 - [NomadList](https://nomadlist.com/) - also lists working locations within a given city
