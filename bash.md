@@ -12,6 +12,7 @@
 - [bash-commons](https://github.com/gruntwork-io/bash-commons)
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
 - [pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible)
+- [simple-bash-scripts](https://github.com/ruanyf/simple-bash-scripts)
 
 ##### Others
 - [Ebook - Learn enough command line to be dangerous](https://www.learnenough.com/command-line-tutorial)
