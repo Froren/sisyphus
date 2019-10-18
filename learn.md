@@ -53,6 +53,7 @@
 - [BEM-resources](https://github.com/sturobson/BEM-resources)
 - [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js)
 - [How to Make a Computer Operating System repo](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+- [Hyperskill](https://hi.hyperskill.org/) - Jetbrains sponsored Java beginner courses
 
 ### Physical
 - [Recurse Center](https://www.recurse.com/)
