@@ -120,6 +120,11 @@
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [random dude's google doc](https://docs.google.com/spreadsheets/d/1jz2dyyDzgZS1zqe_vhY8SYQrhscNzpNfdAkGusWoMUU/edit#gid=0)
 
+### Ebook sites
+
+- [Library Genesis](http://gen.lib.rus.ec/)
+- [b-ok](https://b-ok.cc/)
+
 ### [Graphics/Art](https://github.com/Froren/sisyphus/blob/master/creative.md)
 
 ### Security
