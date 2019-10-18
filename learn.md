@@ -174,6 +174,7 @@
 - [resilience-engineering](https://github.com/lorin/resilience-engineering)
 - [what-happens-when](https://github.com/alex/what-happens-when)
 - [awesome-ci](https://github.com/cytopia/awesome-ci)
+- [devops-interview-questions](https://github.com/bregman-arie/devops-interview-questions)
 
 ----
 - [StackShare](https://stackshare.io/)
