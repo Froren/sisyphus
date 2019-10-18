@@ -67,6 +67,7 @@
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [git-extras](https://github.com/tj/git-extras)
 - [squashic's setup](https://github.com/pulsedemon/osx-setup)
+- [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks)
 
 ----
 - [awesome-uses](https://github.com/wesbos/awesome-uses)
