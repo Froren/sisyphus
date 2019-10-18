@@ -79,3 +79,4 @@
 - [SessionBuddy](https://sessionbuddy.com/)
 - [OneTab](https://www.one-tab.com/)
 - [Google Fi](https://g.co/fi/r/1X169F)
+- [ebooks](https://github.com/Froren/sisyphus/blob/master/learn.md#ebook-sites)
