@@ -69,6 +69,7 @@
 - [WorkingNotWorking](https://workingnotworking.com/)
 - [Woo](https://woo.io/)
 - [Vettery](https://www.vettery.com/)
+- [Seen](https://www.beseen.com/)
 
 ### Interviews/Theoretical Foundations
 
