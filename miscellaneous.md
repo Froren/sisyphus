@@ -6,6 +6,7 @@
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
 - [free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [game-datasets](https://github.com/leomaurodesenv/game-datasets)
+- [openvpn-install](https://github.com/angristan/openvpn-install); [2](https://github.com/Nyr/openvpn-install)
 
 # Web
 
