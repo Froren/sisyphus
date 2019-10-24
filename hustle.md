@@ -139,6 +139,7 @@
 - [WarriorForum](https://www.warriorforum.com/feed/)
 - [StartupStash](http://startupstash.com/)
 - [MarketingExamples](https://marketingexamples.com/)
+- [Saashacker](https://saashacker.co)
 
 ##### Newsletters
 
