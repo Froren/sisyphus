@@ -90,12 +90,15 @@
 - [hoverstat.es](https://hoverstat.es/)
 - [httpster](https://httpster.net/)
 - [Version Museum](https://www.versionmuseum.com/)
+- [Internet Archive Experiments](https://experiments.archivelab.org/)
 
 #### Curations
 
 - [Google's Art & Culture experiments](https://experiments.withgoogle.com/collection/arts-culture)
 - [Awwwards](https://www.awwwards.com/websites/)
 - [GearAward](http://gearaward.com/)
+- [Evolution of the Scrollbar](https://scrollbars.matoseb.com/)
+- [Information mesh](http://infomesh.org/)
 
 #### Shaders/Demos
 
