@@ -60,6 +60,7 @@
 - [Formico referral site](https://formico.io/landing-page-inspiration/)
 - [sndrgb](http://sndrgb.com/)
 - [buona](https://www.buona.co/)
+- [Colormind](http://colormind.io/template/paper-dashboard/) - generate landing pages based on colour themes
 
 ### Personal Sites
 
