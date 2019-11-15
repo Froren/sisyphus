@@ -51,6 +51,11 @@
 - [binb](https://github.com/lpinca/binb)
 - [start your own isp](https://startyourownisp.com/)
 
+---
+
+- [The Measure Of A Plan](https://themeasureofaplan.com/)
+  - [Stock Market Volatility](https://themeasureofaplan.com/visualizing-stock-market-volatility/)
+
 ### Hosting
 
 - [Surge.sh](http://surge.sh/)
