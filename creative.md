@@ -132,6 +132,7 @@
 - [typography](https://github.com/deanhume/typography)
 - [InVision blog](https://www.invisionapp.com/blog) - check out the newsletter too
   - [DesignBetter](https://www.designbetter.co/)
+- [growth.design](https://growth.design/case-studies/)
 
 #### Newsletters
 
