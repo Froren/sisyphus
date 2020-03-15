@@ -50,11 +50,15 @@
 - [m28.studio](https://m28.studio/)
 - [binb](https://github.com/lpinca/binb)
 - [start your own isp](https://startyourownisp.com/)
+- [city-roads](https://github.com/anvaka/city-roads)
+- [mplayer on the tty](https://github.com/mayfrost/guides/blob/master/VIDEO.md)
+- [DIY cloud gaming service](https://lg.io/2015/07/05/revised-and-much-faster-run-your-own-highend-cloud-gaming-service-on-ec2.html)
 
 ---
 
 - [The Measure Of A Plan](https://themeasureofaplan.com/)
   - [Stock Market Volatility](https://themeasureofaplan.com/visualizing-stock-market-volatility/)
+- [Read Comic Online](https://readcomiconline.to/)
 
 ### Hosting
 
@@ -87,3 +91,9 @@
 - [OneTab](https://www.one-tab.com/)
 - [Google Fi](https://g.co/fi/r/1X169F)
 - [ebooks](https://github.com/Froren/sisyphus/blob/master/learn.md#ebook-sites)
+- [RequestBin](https://requestbin.com/)
+	- [postbin](https://postb.in/)
+	- [beeceptor](https://beeceptor.com/)
+	- [webhook.site](https://webhook.site/)
+	- [hookbin](https://hookbin.com/)
+	- [mockbin](http://mockbin.org/)

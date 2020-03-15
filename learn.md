@@ -126,6 +126,7 @@
 
 - [Library Genesis](http://gen.lib.rus.ec/)
 - [b-ok](https://b-ok.cc/)
+- [Librivox](https://librivox.org/)
 
 ### [Graphics/Art](https://github.com/Froren/sisyphus/blob/master/creative.md)
 
@@ -193,6 +194,11 @@
 - [StartupCosts](https://www.startupcosts.co/open)
 - [Siftery](https://siftery.com/)
 - [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar)
+- [awesome-uses](https://github.com/wesbos/awesome-uses)
+
+### Linux
+
+- [Linux kernel labs](https://github.com/linux-kernel-labs/linux)
 
 ### Data
 - [DS100 Textbook](https://www.textbook.ds100.org/)

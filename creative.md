@@ -30,6 +30,7 @@
 - [Every Noise At Once](http://everynoise.com/)
 - [learningsynths](https://learningsynths.ableton.com/)
 - [supercolony](https://www.supercolony.co/)
+- [sql 3d engine](https://observablehq.com/@pallada-92/sql-3d-engine)
 
 ### Visualizations 
 
@@ -47,6 +48,7 @@
 - [pixi.js](https://github.com/pixijs/pixi.js)
 - [phaser](https://github.com/photonstorm/phaser)
 - [lines.co link about art tools that are web apps](https://llllllll.co/t/web-apps-for-music-video-etc-making/18096)
+- [awesome-web-animation](https://github.com/sergey-pimenov/awesome-web-animation)
 
 ------
 
@@ -92,6 +94,7 @@
 - [httpster](https://httpster.net/)
 - [Version Museum](https://www.versionmuseum.com/)
 - [Internet Archive Experiments](https://experiments.archivelab.org/)
+- [Glitch Gallery](https://glitchgallery.org/)
 
 #### Curations
 
@@ -133,6 +136,10 @@
 - [InVision blog](https://www.invisionapp.com/blog) - check out the newsletter too
   - [DesignBetter](https://www.designbetter.co/)
 - [growth.design](https://growth.design/case-studies/)
+
+------
+
+- [grumpy.website](https://grumpy.website/)
 
 #### Newsletters
 
