@@ -57,6 +57,7 @@
 - [Hyperskill](https://hi.hyperskill.org/) - Jetbrains sponsored Java beginner courses
 - [cheaki nodejs-interview-questions](https://www.cheaki.com/nodejs/nodejs-interview-questions)
 - [Full Stack open](https://fullstackopen.com/en)
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ### Physical
 - [Recurse Center](https://www.recurse.com/)
