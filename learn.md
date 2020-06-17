@@ -90,7 +90,7 @@
 - [PapersWithCode](https://paperswithcode.com/)
 - [programming projects for advanced beginners](https://robertheaton.com/2018/12/08/programming-projects-for-advanced-beginners/)
 
-## Passive
+## Passive/Boards
 - Reddit; [awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits)
 - [HN](https://news.ycombinator.com/)
 - [Lobste.rs](https://lobste.rs/); [sister sites](https://github.com/lobsters/lobsters/wiki)
@@ -99,6 +99,7 @@
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
 - [awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs)
 - [best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#moocs-for-learning-something-new)
+- [secret.club](https://secret.club/)
 
 ## Newsletters
 - [the-morning-paper](https://blog.acolyer.org/)
