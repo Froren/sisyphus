@@ -116,6 +116,7 @@
 
 - Glassdoor
 - [Levels.fyi](https://www.levels.fyi/)
+- [H1B Data](https://h1bdata.info/)
 - [/r/cscareerquestions responses](https://docs.google.com/spreadsheets/d/1xnU7LdpF1ErsPyaBgrCAVzuBMYR6os1ydhXV2DBi2FU/edit)
    - [previous responses](https://docs.google.com/spreadsheets/d/1rUaTg90ckd2sleR0lNOML89oBPmoIYproadDqghtTME/edit#gid=0)
 - [Hired salaries](https://hired.com/salaries)
