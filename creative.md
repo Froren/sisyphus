@@ -31,6 +31,7 @@
 - [learningsynths](https://learningsynths.ableton.com/)
 - [supercolony](https://www.supercolony.co/)
 - [sql 3d engine](https://observablehq.com/@pallada-92/sql-3d-engine)
+- [attractor-seeder](https://github.com/davidomarf/attractor-seeder)
 
 ### Visualizations 
 
