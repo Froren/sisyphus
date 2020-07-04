@@ -60,7 +60,6 @@
 
 ### Agencies
 
-- [A-List](https://alist.co/candidates/refer/18326)
 - [Hired](https://hired.com/x/62dx2)
 - [TripleByte](https://triplebyte.com/iv/ZUPlg1q/cp)
 - [CodeForCash](https://codefor.cash/)
@@ -70,7 +69,6 @@
 - [WorkingNotWorking](https://workingnotworking.com/)
 - [Woo](https://woo.io/)
 - [Vettery](https://www.vettery.com/)
-- [Seen](https://www.beseen.com/)
 
 ### Interviews/Theoretical Foundations
 
