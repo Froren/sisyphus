@@ -152,6 +152,8 @@
 - [Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources)
 - [The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
 - [awesome-security](https://github.com/sbilly/awesome-security)
+- [exploit.education](https://exploit.education/)
+- [docfate111's cybersecclub](https://docfate111.github.io/cybersecclub/roadmap.html)
 
 ----
 - [awesome-cryptocurrency-security](https://github.com/nongiach/awesome-cryptocurrency-security)
