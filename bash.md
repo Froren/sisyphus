@@ -20,6 +20,7 @@
 - [Wikibook - Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 - [GreyCat wiki bash guide](http://mywiki.wooledge.org/BashGuide)
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/index.html)
+- [GNU Bash reference manual](https://www.gnu.org/software/bash/manual/bash.html)
 
 # Challenges
 
