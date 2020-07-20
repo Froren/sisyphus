@@ -154,6 +154,7 @@
 - [awesome-security](https://github.com/sbilly/awesome-security)
 - [exploit.education](https://exploit.education/)
 - [docfate111's cybersecclub](https://docfate111.github.io/cybersecclub/roadmap.html)
+- [noodulz.me hackguide](https://noodulz.me/_posts/hackguide)
 
 ----
 - [awesome-cryptocurrency-security](https://github.com/nongiach/awesome-cryptocurrency-security)
