@@ -209,6 +209,7 @@
 
 ### Data
 - [DS100 Textbook](https://www.textbook.ds100.org/)
+- [awesome-datascience](https://github.com/academic/awesome-datascience)
 
 ### Misc Career Development
 - [DevToManager](https://devtomanager.com/)
