@@ -90,6 +90,7 @@
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [PapersWithCode](https://paperswithcode.com/)
 - [programming projects for advanced beginners](https://robertheaton.com/2018/12/08/programming-projects-for-advanced-beginners/)
+- [HackSource](https://hacksource.xyz/)
 
 ## Passive/Boards
 - Reddit; [awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits)
@@ -207,6 +208,7 @@
 ### Linux
 
 - [Linux kernel labs](https://github.com/linux-kernel-labs/linux)
+- [Funtoo articles (Linux)](http://www.funtoo.org/Category:Articles)
 
 ### Data
 - [DS100 Textbook](https://www.textbook.ds100.org/)
@@ -223,7 +225,4 @@
 - [StaffEng](https://staffeng.com/)
 
 ## Misc
-- [Funtoo articles (Linux)](http://www.funtoo.org/Category:Articles)
 - [7 sites to help you focus](https://medium.com/statuscode/7-sites-to-help-you-relax-and-focus-whilst-programming-16057afe90da)
-- [MyBridge](https://www.mybridge.co/skills/javascript)
-- [HackSource](https://hacksource.xyz/)
