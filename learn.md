@@ -60,6 +60,7 @@
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [SQLBolt](https://sqlbolt.com/)
 - [whatwebcando.today](https://whatwebcando.today/)
+- [Medium - basecs](https://medium.com/basecs)
 
 ### Physical
 - [Recurse Center](https://www.recurse.com/)
