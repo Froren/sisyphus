@@ -175,6 +175,7 @@
 - [post-mortems](https://github.com/danluu/post-mortems)
 - [Failory](https://failory.com/)
 - [rejected.us](https://rejected.us/)
+- [autopsy](https://www.getautopsy.com/startup-failures)
 
 ### Misc
 
