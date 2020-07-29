@@ -17,6 +17,7 @@
 - [CodinGame](https://www.codingame.com/)
 - [CodingBat](http://codingbat.com/)
 - [CyberDojo](http://www.cyber-dojo.org/)
+- [Edabit](https://edabit.com/)
 - [EdufyMe](http://www.edufyme.com/)
 - [Exercism](http://exercism.io/)
 - [HackerEarth](https://www.hackerearth.com/challenges/)
