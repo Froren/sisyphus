@@ -196,6 +196,7 @@
 - [what-happens-when](https://github.com/alex/what-happens-when)
 - [awesome-ci](https://github.com/cytopia/awesome-ci)
 - [devops-interview-questions](https://github.com/bregman-arie/devops-interview-questions)
+- [serverless-stack.com](https://github.com/AnomalyInnovations/serverless-stack-com)
 
 ----
 - [StackShare](https://stackshare.io/)
