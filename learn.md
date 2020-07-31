@@ -211,6 +211,7 @@
 
 - [Linux kernel labs](https://github.com/linux-kernel-labs/linux)
 - [Funtoo articles (Linux)](http://www.funtoo.org/Category:Articles)
+- [linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge)
 
 ### Data
 - [DS100 Textbook](https://www.textbook.ds100.org/)
