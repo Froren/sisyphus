@@ -98,6 +98,7 @@
 - [project-based-learning-frontend](https://github.com/binconsole/project-based-learning-frontend)
 - [community-project-ideas](https://github.com/fnplus/community-project-ideas)
 - [app-ideas](https://github.com/florinpop17/app-ideas)
+- [ProjectLearn](https://projectlearn.io/)
 
 ## Passive/Boards
 - Reddit; [awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits)
