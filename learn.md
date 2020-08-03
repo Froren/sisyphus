@@ -82,16 +82,22 @@
 - [Programming, Motherfucker](http://programming-motherfucker.com/become.html) - ideology is a bit strong, great resources tho.
 - [one-click-to-be-a-pro](https://github.com/vic317yeh/One-Click-to-Be-Pro)
 - [learn-anything](https://github.com/nikitavoloboev/learn-anything)
-- [(list of practical) projects](https://github.com/karan/Projects)
 - [professional-programming](https://github.com/charlax/professional-programming)
 - [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
-- [project-based-learning](https://github.com/tuvtran/project-based-learning)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [PapersWithCode](https://paperswithcode.com/)
-- [programming projects for advanced beginners](https://robertheaton.com/2018/12/08/programming-projects-for-advanced-beginners/)
 - [HackSource](https://hacksource.xyz/)
+
+## Project lists
+- [(list of practical) projects](https://github.com/karan/Projects)
+- [project-based-learning](https://github.com/tuvtran/project-based-learning)
+- [programming projects for advanced beginners](https://robertheaton.com/2018/12/08/programming-projects-for-advanced-beginners/)
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
+- [project-based-learning-frontend](https://github.com/binconsole/project-based-learning-frontend)
+- [community-project-ideas](https://github.com/fnplus/community-project-ideas)
+- [app-ideas](https://github.com/florinpop17/app-ideas)
 
 ## Passive/Boards
 - Reddit; [awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits)
