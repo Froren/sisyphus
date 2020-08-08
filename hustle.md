@@ -152,6 +152,7 @@
 - [How It Actually Works](https://www.howitactuallyworks.com/)
 - [Ryan Robinson](https://www.ryrob.com/)
 - Saashacker
+- [Trends.vc](https://join.trends.vc/#thanks)
 
 #### Products and Growth Hacking
 
