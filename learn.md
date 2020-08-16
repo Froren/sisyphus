@@ -89,6 +89,7 @@
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [PapersWithCode](https://paperswithcode.com/)
 - [HackSource](https://hacksource.xyz/)
+- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 
 ## Project lists
 - [(list of practical) projects](https://github.com/karan/Projects)
