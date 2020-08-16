@@ -202,7 +202,6 @@
 - [12factor](https://www.12factor.net/)
 - [DeadlockEmpire](https://github.com/deadlockempire/deadlockempire.github.io)
 - [resilience-engineering](https://github.com/lorin/resilience-engineering)
-- [what-happens-when](https://github.com/alex/what-happens-when)
 - [awesome-ci](https://github.com/cytopia/awesome-ci)
 - [devops-interview-questions](https://github.com/bregman-arie/devops-interview-questions)
 - [serverless-stack.com](https://github.com/AnomalyInnovations/serverless-stack-com)
@@ -217,10 +216,13 @@
 - [awesome-uses](https://github.com/wesbos/awesome-uses)
 
 ### Linux
-
 - [Linux kernel labs](https://github.com/linux-kernel-labs/linux)
 - [Funtoo articles (Linux)](http://www.funtoo.org/Category:Articles)
 - [linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge)
+
+### Networking
+- [illustrated-tls](https://github.com/syncsynchalt/illustrated-tls)
+- [what-happens-when](https://github.com/alex/what-happens-when)
 
 ### Data
 - [DS100 Textbook](https://www.textbook.ds100.org/)
