@@ -142,6 +142,7 @@
 - [Library Genesis](http://gen.lib.rus.ec/)
 - [b-ok](https://b-ok.cc/)
 - [Librivox](https://librivox.org/)
+- [the-eye](https://the-eye.eu/public/Books/A%20Library/)
 
 ### [Graphics/Art](https://github.com/Froren/sisyphus/blob/master/creative.md)
 
