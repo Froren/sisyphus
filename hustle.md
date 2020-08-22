@@ -5,6 +5,7 @@
 - [Upwork](https://www.upwork.com/)
 - [Freelancer](https://www.freelancer.com)
 - [Wellpaid.io](https://wellpaid.io/)
+- [LanceList](http://www.lancelist.com/)
 ------
 - [Fiverr](https://www.fiverr.com/)
 - [PeoplePerHour](https://www.peopleperhour.com/)
@@ -144,6 +145,11 @@
 - [MarketingExamples](https://marketingexamples.com/)
 - [Saashacker](https://saashacker.co)
 
+#### Ideation
+- [Trends.vc](https://join.trends.vc/#thanks)
+- [OppsDaily](http://www.oppsdaily.com/)
+- [ExplodingTopics](https://explodingtopics.com/)
+
 ##### Newsletters
 
 - Indiehackers
@@ -154,7 +160,6 @@
 - [How It Actually Works](https://www.howitactuallyworks.com/)
 - [Ryan Robinson](https://www.ryrob.com/)
 - Saashacker
-- [Trends.vc](https://join.trends.vc/#thanks)
 
 #### Products and Growth Hacking
 
@@ -186,10 +191,7 @@
 
 ### Misc
 
-- [OppsDaily](http://www.oppsdaily.com/)
 - [BountySource](https://www.bountysource.com/)
-- [LanceList](http://www.lancelist.com/)
-  - Includes marketplace section with sites such as Freelancer and oDesk
 - [blog post with remote job sites and marketplaces](https://skillcrush.com/2014/10/10/sites-finding-remote-work/)
 - [Indie-Ignitor (plugin marketplaces)](https://indie-ignitor.com/marketplaces) 
 - [ReferralHunt](https://referralhunt.co/)
