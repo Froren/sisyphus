@@ -144,7 +144,7 @@
 - [Librivox](https://librivox.org/)
 - [the-eye](https://the-eye.eu/public/Books/A%20Library/)
 
-### [Graphics/Art](https://github.com/Froren/sisyphus/blob/master/creative.md)
+### [Graphics/Art/Design](https://github.com/Froren/sisyphus/blob/master/creative.md)
 
 ### Security
 - **[Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)**
