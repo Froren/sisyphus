@@ -241,6 +241,3 @@
 - [StaffEng](https://staffeng.com/)
 - [Product Management Exercises](https://www.productmanagementexercises.com/)
 - [Career Fair](https://www.careerfair.io/)
-
-## Misc
-- [7 sites to help you focus](https://medium.com/statuscode/7-sites-to-help-you-relax-and-focus-whilst-programming-16057afe90da)
