@@ -41,7 +41,7 @@
 - [LittleWorkspace](https://www.littleworkspace.com/)
 - [Remote Tools](https://www.remote.tools/)
 
-### Non-Remote
+### Not necessarily remote
 
 - [AngelList](https://angel.co/jobs)
 - [StackOverflow Jobs](https://stackoverflow.com/jobs?med=site-ui&ref=jobs-tab)
@@ -55,6 +55,7 @@
 - [Github jobs](https://jobs.github.com/)
 - [BreakoutList](https://breakoutlist.com/)
 - [Work At a Startup (YC)](https://www.workatastartup.com/)
+- [Built In](https://builtin.com/jobs)
 ------
 - [Indeed](https://www.indeed.ca/)
 - [Workopolis](https://www.workopolis.com/en/)
