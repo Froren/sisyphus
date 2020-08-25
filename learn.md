@@ -241,3 +241,7 @@
 - [StaffEng](https://staffeng.com/)
 - [Product Management Exercises](https://www.productmanagementexercises.com/)
 - [Career Fair](https://www.careerfair.io/)
+
+### Non-tech
+- [LessWrong](https://www.lesswrong.com/), [LessWrong wiki](https://wiki.lesswrong.com/)
+- [Slate Star Codex](https://slatestarcodex.com/)
