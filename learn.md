@@ -68,7 +68,6 @@
 - [Grey Area](https://grayarea.org/)
 
 #### Conferences
-
 - [confs.tech](https://github.com/tech-conferences/confs.tech)
 
 ## General
@@ -138,11 +137,13 @@
 - [random dude's google doc](https://docs.google.com/spreadsheets/d/1jz2dyyDzgZS1zqe_vhY8SYQrhscNzpNfdAkGusWoMUU/edit#gid=0)
 
 ### Ebook sites
-
 - [Library Genesis](http://gen.lib.rus.ec/)
 - [b-ok](https://b-ok.cc/)
 - [Librivox](https://librivox.org/)
 - [the-eye](https://the-eye.eu/public/Books/A%20Library/)
+
+### Talks/Videos
+- [programming-talks](https://github.com/hellerve/programming-talks)
 
 ### [Graphics/Art/Design](https://github.com/Froren/sisyphus/blob/master/creative.md)
 
