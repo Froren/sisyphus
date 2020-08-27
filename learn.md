@@ -131,6 +131,7 @@
    - [The CEO Library](https://www.theceolibrary.com/)
 - [Refactoring.guru](https://refactoring.guru/)
 - [/r/learnprogramming books](https://www.reddit.com/r/learnprogramming/wiki/books)
+- [an-askreddit-list-of-compsci-books](https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books)
 - [Technical-eBooks](https://github.com/devharsh/Technical-eBooks)
 - [awesome-programming-books](https://github.com/majikarp/awesome-programming-books)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
