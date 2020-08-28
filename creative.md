@@ -55,15 +55,30 @@
 
 ### UX/Landing Pages
 
-- [Pages.xyz](https://www.pages.xyz/)
 - [Lapa.ninja](https://www.lapa.ninja/)
 - [Land-book](https://land-book.com/)
 - [Muzli](https://medium.muz.li/)
 - [Cruip](https://cruip.com/)
-- [Formico referral site](https://formico.io/landing-page-inspiration/)
 - [sndrgb](http://sndrgb.com/)
-- [buona](https://www.buona.co/)
 - [Colormind](http://colormind.io/template/paper-dashboard/) - generate landing pages based on colour themes
+
+### Resources
+
+- [Unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com/)
+- [Picular](https://picular.co/)
+- [icons8](https://icons8.com/)
+- [awesome-icons](https://github.com/notlmn/awesome-icons)
+- [ikonate](https://github.com/mikolajdobrucki/ikonate)
+- [Undesign](https://undesign.learn.uno/)
+- [CSSFX](https://cssfx.dev/)
+- [Creary](https://creary.net)
+- [gradients.design](https://gradients.design/)
+- [generated.photos](https://generated.photos/)
+- [No Design](https://nodesign.dev/)
+- [themesburg](https://themesberg.com/)
+
+------
 
 ### Personal Sites
 
@@ -145,24 +160,6 @@
 #### Newsletters
 
 - [DenseDiscovery](https://www.densediscovery.com/)
-
-------
-
-### Resources
-
-- [Unsplash](https://unsplash.com/)
-- [Pexels](https://www.pexels.com/)
-- [Picular](https://picular.co/)
-- [icons8](https://icons8.com/)
-- [awesome-icons](https://github.com/notlmn/awesome-icons)
-- [ikonate](https://github.com/mikolajdobrucki/ikonate)
-- [Undesign](https://undesign.learn.uno/)
-- [CSSFX](https://cssfx.dev/)
-- [Creary](https://creary.net)
-- [gradients.design](https://gradients.design/)
-- [generated.photos](https://generated.photos/)
-- [No Design](https://nodesign.dev/)
-- [themesburg](https://themesberg.com/)
 
 ------
 
