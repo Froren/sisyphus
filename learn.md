@@ -46,7 +46,6 @@
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 - [js-dev-reads](https://github.com/twhite96/js-dev-reads)
 - [lets-build-express](https://github.com/antsmartian/lets-build-express)
-- [Project-Based-Tutorials-in-C](https://github.com/rby90/Project-Based-Tutorials-in-C)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 - [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
@@ -99,6 +98,7 @@
 - [community-project-ideas](https://github.com/fnplus/community-project-ideas)
 - [app-ideas](https://github.com/florinpop17/app-ideas)
 - [ProjectLearn](https://projectlearn.io/)
+- [Project-Based-Tutorials-in-C](https://github.com/rby90/Project-Based-Tutorials-in-C)
 
 ## Passive/Boards
 - Reddit; [awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits)
