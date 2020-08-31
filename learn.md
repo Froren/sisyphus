@@ -60,6 +60,7 @@
 - [SQLBolt](https://sqlbolt.com/)
 - [whatwebcando.today](https://whatwebcando.today/)
 - [Medium - basecs](https://medium.com/basecs)
+- [webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious)
 
 ### Physical
 - [Recurse Center](https://www.recurse.com/)
