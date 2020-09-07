@@ -61,6 +61,7 @@
 - [Cruip](https://cruip.com/)
 - [sndrgb](http://sndrgb.com/)
 - [Colormind](http://colormind.io/template/paper-dashboard/) - generate landing pages based on colour themes
+- [lookup.design](https://lookup.design/)
 
 ### Resources
 
