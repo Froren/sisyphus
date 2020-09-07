@@ -35,6 +35,7 @@
 - [open-source-cs-degree](https://github.com/mvillaloboz/open-source-cs-degree)
 - [open-source-cs](https://github.com/ForrestKnight/open-source-cs)
 - [Computer_Science_Web_Resources](https://github.com/the-akira/Computer_Science_Web_Resources)
+- [p1xt-guides](https://github.com/P1xt/p1xt-guides)
 
 ----
 
