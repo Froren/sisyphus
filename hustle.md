@@ -56,6 +56,7 @@
 - [BreakoutList](https://breakoutlist.com/)
 - [Work At a Startup (YC)](https://www.workatastartup.com/)
 - [Built In](https://builtin.com/jobs)
+- [Blind](https://www.teamblind.com/)
 ------
 - [Indeed](https://www.indeed.ca/)
 - [Workopolis](https://www.workopolis.com/en/)
