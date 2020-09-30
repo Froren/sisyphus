@@ -173,6 +173,9 @@
 - [noodulz.me hackguide](https://noodulz.me/_posts/hackguide)
 - [IITBreachers-wiki](https://github.com/CSEA-IITB/IITBreachers-wiki/blob/master/_posts/2020-08-01-Hacking%20Sites.md)
 - [Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+- [DVWA](https://github.com/digininja/DVWA)
+- [PortSwigger Academy](https://portswigger.net/web-security)
+- [OWASP top 10](https://owasp.org/www-project-top-ten/)
 
 ----
 - [awesome-cryptocurrency-security](https://github.com/nongiach/awesome-cryptocurrency-security)
