@@ -112,6 +112,7 @@
 - [awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs)
 - [best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#moocs-for-learning-something-new)
 - [secret.club](https://secret.club/)
+- [Community Finder](https://www.community-finder.co/)
 
 ## Newsletters
 - [the-morning-paper](https://blog.acolyer.org/)
