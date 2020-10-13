@@ -147,6 +147,7 @@
 - [StartupStash](http://startupstash.com/)
 - [MarketingExamples](https://marketingexamples.com/)
 - [Saashacker](https://saashacker.co)
+- [The Bootstrapped Founder](https://thebootstrappedfounder.com/)
 
 #### Ideation
 - [Trends.vc](https://join.trends.vc/#thanks)
