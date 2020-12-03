@@ -145,6 +145,10 @@
 - [b-ok](https://b-ok.cc/)
 - [Librivox](https://librivox.org/)
 - [the-eye](https://the-eye.eu/public/Books/A%20Library/)
+-----
+- [/r/piracy thread](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/)
+    - [mobilism](https://forum.mobilism.org/viewforum.php?f=106)
+    - [AvaxHome](https://www.avaxhome.co/)
 
 ### Talks/Videos
 - [programming-talks](https://github.com/hellerve/programming-talks)
