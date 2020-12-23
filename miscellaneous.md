@@ -60,6 +60,15 @@
   - [Stock Market Volatility](https://themeasureofaplan.com/visualizing-stock-market-volatility/)
 - [Read Comic Online](https://readcomiconline.to/)
 
+### Games
+- [Set with friends](https://setwithfriends.com/)
+- [Board Game Arena](https://boardgamearena.com/)
+- [surviv.io](surviv.io)
+- [Tagpro](https://tagpro.koalabeast.com/)
+- [Mahjong](https://maque.games/)
+- [Board Game Online](https://www.boardgame-online.com/)
+- [Tank Trouble](https://tanktrouble.com/)
+
 ### One offs
 - [7 sites to help you focus](https://medium.com/statuscode/7-sites-to-help-you-relax-and-focus-whilst-programming-16057afe90da)
 
