@@ -181,6 +181,7 @@
 - [DVWA](https://github.com/digininja/DVWA)
 - [PortSwigger Academy](https://portswigger.net/web-security)
 - [OWASP top 10](https://owasp.org/www-project-top-ten/)
+- [CTFSites](https://ctfsites.github.io/)
 
 ----
 - [awesome-cryptocurrency-security](https://github.com/nongiach/awesome-cryptocurrency-security)
