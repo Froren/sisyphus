@@ -3,10 +3,7 @@
 - [my other stars](https://github.com/randallho?tab=stars) - includes a bunch of ascii art stuff that I forgot about
 - [Charles proxy](https://www.charlesproxy.com/download/)
 - [Scapple](https://www.literatureandlatte.com/scapple/overview)
-- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
-- [free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [game-datasets](https://github.com/leomaurodesenv/game-datasets)
-- [openvpn-install](https://github.com/angristan/openvpn-install); [2](https://github.com/Nyr/openvpn-install)
 
 # Web
 
@@ -49,7 +46,6 @@
 - [anything.pub](https://anything.pub/)
 - [m28.studio](https://m28.studio/)
 - [binb](https://github.com/lpinca/binb)
-- [start your own isp](https://startyourownisp.com/)
 - [city-roads](https://github.com/anvaka/city-roads)
 - [mplayer on the tty](https://github.com/mayfrost/guides/blob/master/VIDEO.md)
 - [DIY cloud gaming service](https://lg.io/2015/07/05/revised-and-much-faster-run-your-own-highend-cloud-gaming-service-on-ec2.html)
@@ -94,6 +90,14 @@
 
 ----
 - [awesome-uses](https://github.com/wesbos/awesome-uses)
+
+### Self-hosted
+
+- [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas)
+- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
+- [free-for-dev](https://github.com/ripienaar/free-for-dev)
+- [openvpn-install](https://github.com/angristan/openvpn-install); [2](https://github.com/Nyr/openvpn-install)
+- [start your own isp](https://startyourownisp.com/)
 
 ### Ego Death
 
