@@ -152,6 +152,7 @@
 
 ### Talks/Videos
 - [programming-talks](https://github.com/hellerve/programming-talks)
+- [learn-anything/talks](https://github.com/learn-anything/talks)
 
 ### [Graphics/Art/Design](https://github.com/Froren/sisyphus/blob/master/creative.md)
 
