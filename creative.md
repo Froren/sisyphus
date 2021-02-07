@@ -79,6 +79,7 @@
 - [No Design](https://nodesign.dev/)
 - [themesburg](https://themesberg.com/)
 - [Artvee](https://artvee.com/)
+- [Noun Project](https://thenounproject.com/)
 
 ------
 
