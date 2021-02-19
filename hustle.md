@@ -148,6 +148,7 @@
 - [MarketingExamples](https://marketingexamples.com/)
 - [Saashacker](https://saashacker.co)
 - [The Bootstrapped Founder](https://thebootstrappedfounder.com/)
+- [dev-resources](https://github.com/marcelscruz/dev-resources)
 
 #### Ideation
 - [Trends.vc](https://join.trends.vc/#thanks)
