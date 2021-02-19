@@ -154,6 +154,7 @@
 - [Trends.vc](https://join.trends.vc/#thanks)
 - [OppsDaily](http://www.oppsdaily.com/)
 - [ExplodingTopics](https://explodingtopics.com/)
+- [Software Ideas](https://www.softwareideas.io/)
 
 ##### Newsletters
 
