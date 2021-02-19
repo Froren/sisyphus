@@ -90,6 +90,7 @@
 - [PapersWithCode](https://paperswithcode.com/)
 - [HackSource](https://hacksource.xyz/)
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+- [dev-resources](https://github.com/marcelscruz/dev-resources)
 
 ## Project lists
 - [(list of practical) projects](https://github.com/karan/Projects)
