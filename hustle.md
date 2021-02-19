@@ -183,6 +183,7 @@
 - [EmpireFlippers](https://empireflippers.com/)
 - [Quietlightbrokerage](https://www.quietlightbrokerage.com/)
 - [SaaSPlace](https://saasplace.io/)
+- [buy-micro-saas](https://www.preetamnath.com/micro-saas/buy-micro-saas)
 
 #### Incubators
 - [Incubator List](https://incubatorlist.com/)
