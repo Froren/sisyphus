@@ -149,6 +149,7 @@
 - [Saashacker](https://saashacker.co)
 - [The Bootstrapped Founder](https://thebootstrappedfounder.com/)
 - [dev-resources](https://github.com/marcelscruz/dev-resources)
+- [The Affiliate Database](https://www.affiliatedatabase.net/)
 
 #### Ideation
 - [Trends.vc](https://join.trends.vc/#thanks)
