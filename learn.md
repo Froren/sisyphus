@@ -62,6 +62,7 @@
 - [whatwebcando.today](https://whatwebcando.today/)
 - [Medium - basecs](https://medium.com/basecs)
 - [webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious)
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ### Physical
 - [Recurse Center](https://www.recurse.com/)
