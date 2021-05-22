@@ -103,6 +103,7 @@
 ### Ego Death
 
 - [Namecheap](https://ap.www.namecheap.com/settings/tools/affiliate/)
+- [Google Domains](https://domains.google/)
 - [DigitalOcean](https://m.do.co/c/b56dd564c5ab)
 - [Linode](https://www.linode.com/?r=b60d4c5864b52ba46a068accffa721e08afa4575)
 - [SessionBuddy](https://sessionbuddy.com/)
