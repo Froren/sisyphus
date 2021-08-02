@@ -101,6 +101,7 @@
 
 - [pudding.cool](https://pudding.cool/)
 - [Ncase](http://ncase.me/)
+- [playcanvas-horror-aesthetic](https://omarshehata.me/html/playcanvas-horror-aesthetic/)
 
 ------
 
