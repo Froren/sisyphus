@@ -150,6 +150,7 @@
 - [The Bootstrapped Founder](https://thebootstrappedfounder.com/)
 - [dev-resources](https://github.com/marcelscruz/dev-resources)
 - [The Affiliate Database](https://www.affiliatedatabase.net/)
+- [Don't Just Build](https://dontjustbuild.com/)
 
 #### Ideation
 - [Trends.vc](https://join.trends.vc/#thanks)
