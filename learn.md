@@ -142,15 +142,18 @@
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [random dude's google doc](https://docs.google.com/spreadsheets/d/1jz2dyyDzgZS1zqe_vhY8SYQrhscNzpNfdAkGusWoMUU/edit#gid=0)
 
-### Ebook sites
+### Ebook/Library sites
 - [Library Genesis](http://gen.lib.rus.ec/)
 - [b-ok](https://b-ok.cc/)
 - [Librivox](https://librivox.org/)
 - [the-eye](https://the-eye.eu/public/Books/A%20Library/)
+- [Z-Library](https://z-lib.org/)
 -----
 - [/r/piracy thread](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/)
     - [mobilism](https://forum.mobilism.org/viewforum.php?f=106)
     - [AvaxHome](https://www.avaxhome.co/)
+- [Sci-Hub](https://sci-hub.se/)
+- [archive.today](https://archive.md/) **can be used to pass article paywalls*
 
 ### Talks/Videos
 - [programming-talks](https://github.com/hellerve/programming-talks)
