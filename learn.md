@@ -129,7 +129,8 @@
 ## Books 
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [Doradolist](http://www.doradolist.com/)
-- that google docs spreadsheet that you keep 
+- that google docs spreadsheet that you keep
+- google keep lists
 - [[IndieHackers] What books do you recommend?](https://www.indiehackers.com/forum/what-books-do-you-recommend-4dfa511caa)
    - [Side Project Books](https://books.makesideproject.com/) 
    - [BestBusinessBooks](http://bestbusinessbooksever.com/)
