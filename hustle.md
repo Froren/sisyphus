@@ -151,6 +151,7 @@
 - [dev-resources](https://github.com/marcelscruz/dev-resources)
 - [The Affiliate Database](https://www.affiliatedatabase.net/)
 - [Don't Just Build](https://dontjustbuild.com/)
+- [MicroFounder](https://microfounder.com/)
 
 #### Ideation
 - [Trends.vc](https://join.trends.vc/#thanks)
@@ -187,6 +188,9 @@
 - [SaaSPlace](https://saasplace.io/)
 - [buy-micro-saas](https://www.preetamnath.com/micro-saas/buy-micro-saas)
 - [MicroAcquire](https://microacquire.com)
+- [TinyAcquisitions](https://tinyacquisitions.com/)
+- [EarlyAcquire](https://www.earlyacquire.com/)
+- [SideInvest](https://www.sideinvest.io/)
 
 #### Incubators
 - [Incubator List](https://incubatorlist.com/)
