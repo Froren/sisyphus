@@ -105,6 +105,7 @@
 - [openvpn-install](https://github.com/angristan/openvpn-install); [2](https://github.com/Nyr/openvpn-install)
 - [start your own isp](https://startyourownisp.com/)
 - [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
+- [/r/selfhosted](https://old.reddit.com/r/selfhosted/)
 
 ### Deals
 #### Hardware
