@@ -78,6 +78,11 @@
 - [1mb.site](https://1mb.site/)
 - [▲ZEIT](https://zeit.co/)
 - [dev-resources#infra-hosting](https://github.com/marcelscruz/dev-resources#infrastructure-hosting)
+- [/r/webhosting thread about cheap vps comparisons](https://www.reddit.com/r/webhosting/comments/nn6zoa/cheap_vps_hosting_comparison/)
+- [lowendtalk](https://lowendtalk.com/)
+- [serverhunter](https://www.serverhunter.com/)
+- [VPSBenchmarks](https://www.vpsbenchmarks.com/plans)
+- [lowendbox](https://lowendbox.com/)
 
 ----
 - [Freenom](https://www.freenom.com/) - free domain names whaaaat.
@@ -99,6 +104,13 @@
 - [free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [openvpn-install](https://github.com/angristan/openvpn-install); [2](https://github.com/Nyr/openvpn-install)
 - [start your own isp](https://startyourownisp.com/)
+- [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
+
+### Deals
+#### Hardware
+- [/r/buildapcsales](https://old.reddit.com/r/buildapcsales/)
+	- [websites thread](https://www.reddit.com/r/buildapcsales/comments/3qa7t3/question_what_are_the_best_websites_for_bargain/)
+- [StealEngine](https://www.stealengine.com/)
 
 ### Ego Death
 
