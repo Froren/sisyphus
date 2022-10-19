@@ -62,6 +62,7 @@
 - [Indeed](https://www.indeed.ca/)
 - [Workopolis](https://www.workopolis.com/en/)
 - [Monster](https://www.monster.ca/)
+- [Queens-COMPSA/Canadian-Tech-Internships-2023](https://github.com/Queen-s-COMPSA/Canadian-Tech-Internships-2023)
 
 ### Agencies
 
