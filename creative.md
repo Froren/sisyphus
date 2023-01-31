@@ -81,6 +81,7 @@
 - [Artvee](https://artvee.com/)
 - [Noun Project](https://thenounproject.com/)
 - [Design-Resources](https://github.com/MohamedYoussouf/Design-Resources)
+- [Freepik](https://www.freepik.com/)
 
 ------
 
