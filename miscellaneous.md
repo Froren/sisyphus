@@ -87,6 +87,12 @@
 ----
 - [Freenom](https://www.freenom.com/) - free domain names whaaaat.
 
+### Domains
+
+- [Tld-List](https://tld-list.com/)
+- [Namecheap](https://ap.www.namecheap.com/settings/tools/affiliate/)
+- [Cloudflare Registrar(https://www.cloudflare.com/products/registrar/)
+
 # Dev Env
 
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
@@ -117,8 +123,6 @@
 
 ### Ego Death
 
-- [Namecheap](https://ap.www.namecheap.com/settings/tools/affiliate/)
-- [Google Domains](https://domains.google/)
 - [DigitalOcean](https://m.do.co/c/b56dd564c5ab)
 - [Linode](https://www.linode.com/?r=b60d4c5864b52ba46a068accffa721e08afa4575)
 - [SessionBuddy](https://sessionbuddy.com/)
