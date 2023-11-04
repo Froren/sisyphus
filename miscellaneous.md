@@ -111,6 +111,8 @@
 #### Hardware
 - [/r/buildapcsales](https://old.reddit.com/r/buildapcsales/)
 	- [websites thread](https://www.reddit.com/r/buildapcsales/comments/3qa7t3/question_what_are_the_best_websites_for_bargain/)
+- [/r/homelabsales](https://old.reddit.com/r/homelabsales/)
+- [/r/hardwareswap](https://old.reddit.com/r/hardwareswap/)
 - [StealEngine](https://www.stealengine.com/)
 
 ### Ego Death
