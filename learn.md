@@ -64,6 +64,7 @@
 - [Medium - basecs](https://medium.com/basecs)
 - [webrtc-for-the-curious](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious)
 - [Browser.Engineering](https://browser.engineering/)
+- [develop.games](https://develop.games/)
 
 ### Physical
 - [Recurse Center](https://www.recurse.com/)
