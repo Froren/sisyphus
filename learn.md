@@ -104,6 +104,8 @@
 - [app-ideas](https://github.com/florinpop17/app-ideas)
 - [ProjectLearn](https://projectlearn.io/)
 - [Project-Based-Tutorials-in-C](https://github.com/rby90/Project-Based-Tutorials-in-C)
+----
+- [public-apis](https://github.com/marcelscruz/public-apis)
 
 ## Passive/Boards
 - Reddit; [awesome-subreddits](https://github.com/iCHAIT/awesome-subreddits)
