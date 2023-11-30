@@ -59,11 +59,20 @@
 ### Games
 - [Set with friends](https://setwithfriends.com/)
 - [Board Game Arena](https://boardgamearena.com/)
-- [surviv.io](surviv.io)
+- [Free Board Games Online](https://www.freeboardgames.org/en)
+- [Avalon Online](https://avalon.fun/)
+- [Codenames](https://codenames.game/)
+- [Super Auto Pets](https://teamwood.itch.io/super-auto-pets)
+- [surviv.io](https://surviv.io)
+- [Krunker.io](https://krunker.io/)
+- [Skribbl](https://skribbl.io/)
 - [Tagpro](https://tagpro.koalabeast.com/)
 - [Mahjong](https://maque.games/)
 - [Board Game Online](https://www.boardgame-online.com/)
 - [Tank Trouble](https://tanktrouble.com/)
+- [LiPoker](https://lipoker.io/)
+- [Lofi And Games](https://www.lofiandgames.com/)
+- [random](https://docs.google.com/document/d/1VaIWJpMyTW8ezpJuEGAgPdUm5fojeJhyeJet0kMlcB8/edit) [google](https://docs.google.com/document/d/1RUvhhOTGKoGgiNd3I2HDoHgaX-vDsdvJwiAcOK3ZO7A/edit#heading=h.3jh2u626iekn) docs and [reddit](https://www.reddit.com/r/boardgames/comments/fzxaiu/a_working_list_of_free_webbased_standalone_games/) posts
 
 ### One offs
 - [7 sites to help you focus](https://medium.com/statuscode/7-sites-to-help-you-relax-and-focus-whilst-programming-16057afe90da)
@@ -92,6 +101,7 @@
 - [Tld-List](https://tld-list.com/)
 - [Namecheap](https://ap.www.namecheap.com/settings/tools/affiliate/)
 - [Cloudflare Registrar(https://www.cloudflare.com/products/registrar/)
+- [find.domains](https://find.domains)
 
 # Dev Env
 
