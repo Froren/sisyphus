@@ -93,15 +93,12 @@
 - [VPSBenchmarks](https://www.vpsbenchmarks.com/plans)
 - [lowendbox](https://lowendbox.com/)
 
-----
-- [Freenom](https://www.freenom.com/) - free domain names whaaaat.
 
 ### Domains
 
 - [Tld-List](https://tld-list.com/)
-- [Namecheap](https://ap.www.namecheap.com/settings/tools/affiliate/)
-- [Cloudflare Registrar(https://www.cloudflare.com/products/registrar/)
 - [find.domains](https://find.domains)
+- [Freenom](https://www.freenom.com/) - free domain names whaaaat.
 
 # Dev Env
 
