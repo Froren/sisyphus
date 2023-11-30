@@ -73,6 +73,20 @@
 - [LiPoker](https://lipoker.io/)
 - [Lofi And Games](https://www.lofiandgames.com/)
 - [random](https://docs.google.com/document/d/1VaIWJpMyTW8ezpJuEGAgPdUm5fojeJhyeJet0kMlcB8/edit) [google](https://docs.google.com/document/d/1RUvhhOTGKoGgiNd3I2HDoHgaX-vDsdvJwiAcOK3ZO7A/edit#heading=h.3jh2u626iekn) docs and [reddit](https://www.reddit.com/r/boardgames/comments/fzxaiu/a_working_list_of_free_webbased_standalone_games/) posts
+----
+- [No Bullshit Games](https://nobsgames.stavros.io/)
+
+## Piracy
+- [SkidrowReloaded](https://www.skidrowreloaded.com/)
+- [SteamUnlocked](https://steamunlocked.net/)
+- [IGG Games](https://igg-games.com/)
+- [Nexus Games](https://nexus-games.net/)
+----
+- [rlsbb.ru](https://rlsbb.ru/category/games/)
+- [Scene-Rls](https://scene-rls.net/category/games/)
+- [Scene Source](https://www.scnsrc.me/category/games/)
+- [rlsbb.to](https://log.rlsbb.to/)
+- [PreDB](https://predb.me/)
 
 ### One offs
 - [7 sites to help you focus](https://medium.com/statuscode/7-sites-to-help-you-relax-and-focus-whilst-programming-16057afe90da)
