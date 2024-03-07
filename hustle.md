@@ -45,7 +45,6 @@
 ### Not necessarily remote
 
 - [AngelList](https://angel.co/jobs)
-- [StackOverflow Jobs](https://stackoverflow.com/jobs?med=site-ui&ref=jobs-tab)
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/)
 - [Glassdoor](https://www.glassdoor.com/)
 - [HN Jobs](https://news.ycombinator.com/jobs)
@@ -53,7 +52,6 @@
 - [Authentic Jobs](https://authenticjobs.com/)
 - [F6S](https://www.f6s.com/jobs)
 - [WhoIsHiring](https://whoishiring.io/)
-- [Github jobs](https://jobs.github.com/)
 - [BreakoutList](https://breakoutlist.com/)
 - [Work At a Startup (YC)](https://www.workatastartup.com/)
 - [Built In](https://builtin.com/jobs)
