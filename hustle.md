@@ -58,6 +58,7 @@
 - [Work At a Startup (YC)](https://www.workatastartup.com/)
 - [Built In](https://builtin.com/jobs)
 - [Blind](https://www.teamblind.com/)
+- [Otta](https://www.otta.com/)
 ------
 - [Indeed](https://www.indeed.ca/)
 - [Workopolis](https://www.workopolis.com/en/)
