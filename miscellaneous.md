@@ -111,7 +111,7 @@
 ### Domains
 
 - [Tld-List](https://tld-list.com/)
-- [find.domains](https://find.domains)
+- [divine.domains](https://divine.domains)
 - [Freenom](https://www.freenom.com/) - free domain names whaaaat.
 
 # Dev Env
