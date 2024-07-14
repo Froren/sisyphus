@@ -81,6 +81,7 @@
 - [SteamUnlocked](https://steamunlocked.net/)
 - [IGG Games](https://igg-games.com/)
 - [Nexus Games](https://nexus-games.net/)
+- [SkidrowCodex](https://www.skidrowcodex.net/)
 ----
 - [rlsbb.ru](https://rlsbb.ru/category/games/)
 - [Scene-Rls](https://scene-rls.net/category/games/)
