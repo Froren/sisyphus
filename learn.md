@@ -207,7 +207,7 @@
 - [livecoders](https://github.com/toplap/livecoders)
 
 ### Scalability and System Design
-- [grokking-system-design](https://www.tuliren.net/grokking-system-design/)
+- [grokking-system-design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
@@ -232,6 +232,7 @@
 - [awesome-ci](https://github.com/cytopia/awesome-ci)
 - [devops-interview-questions](https://github.com/bregman-arie/devops-interview-questions)
 - [serverless-stack.com](https://github.com/AnomalyInnovations/serverless-stack-com)
+- [microservices.io](https://microservices.io/index.html)
 
 ----
 - [StackShare](https://stackshare.io/)
