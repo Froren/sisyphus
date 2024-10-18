@@ -271,3 +271,4 @@
 ### Non-tech
 - [LessWrong](https://www.lesswrong.com/), [LessWrong wiki](https://wiki.lesswrong.com/)
 - [Slate Star Codex](https://slatestarcodex.com/)
+   - [Astral Codex Ten](https://www.astralcodexten.com/)
