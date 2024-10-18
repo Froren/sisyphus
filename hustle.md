@@ -179,6 +179,7 @@
 - [NewsletterGuide](https://newsletterguide.org/)
 - MarketingExamples
 - [feedback.exchange](https://www.feedback.exchange/)
+- [Uneed](https://www.uneed.best/)
 
 ### Marketplaces
 
