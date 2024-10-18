@@ -85,6 +85,7 @@
 - [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 - [(javascript) exercises](https://github.com/kolodny/exercises)
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+   - [Grind75](https://www.techinterviewhandbook.org/grind75/)  
 - [Data structures and algos in Java](https://github.com/donbeave/interview)
 - [interviews](https://github.com/kdn251/interviews)
 - [random person's repo I starred with C++ examples](https://github.com/liwei606/interview)
