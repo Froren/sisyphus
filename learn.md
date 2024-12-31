@@ -146,6 +146,7 @@
 - [awesome-programming-books](https://github.com/majikarp/awesome-programming-books)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [random dude's google doc](https://docs.google.com/spreadsheets/d/1jz2dyyDzgZS1zqe_vhY8SYQrhscNzpNfdAkGusWoMUU/edit#gid=0)
+- [Cybersecurity Canon](https://icdt.osu.edu/cybercanon/bookreviews)
 
 ### Ebook/Library sites
 - [Library Genesis](http://gen.lib.rus.ec/)
