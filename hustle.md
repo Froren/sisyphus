@@ -14,7 +14,6 @@
 
 ### Remote
 
-- [remote](https://www.remote.com/)
 - [remotive](https://remotive.io/) - [companies](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit); [salaries](https://docs.google.com/spreadsheets/d/1VOehQv0bOs2pY7RkKJ8RmlUbuu8UmSgzfvjR0m5hyxQ/edit#gid=1145296357)
 - [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)
 - [jessicard/remote-jobs](https://github.com/jessicard/remote-jobs)
