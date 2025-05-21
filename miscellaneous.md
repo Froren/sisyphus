@@ -123,6 +123,7 @@
 # Dev Env
 
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+    - [zsh git cheatsheet](https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index)
 - [git-extras](https://github.com/tj/git-extras)
 - [squashic's setup](https://github.com/pulsedemon/osx-setup)
 - [awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks)
