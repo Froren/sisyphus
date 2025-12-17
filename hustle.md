@@ -19,8 +19,7 @@
 - [jessicard/remote-jobs](https://github.com/jessicard/remote-jobs)
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 - [SO Jobs](https://stackoverflow.com/jobs?r=True&rs=1&sort=p)
-- [AngelList](https://angel.co/job-collections/remote)
-- [Github Jobs](https://jobs.github.com/positions?description=&location=Remote)
+- [Wellfound](https://wellfound.com/jobs)
 - [remoteOK](https://remoteok.io/)
 - [remotelyAwesomeJobs](https://www.remotelyawesomejobs.com/)
 - [WeWorkRemotely](https://weworkremotely.com/)
@@ -34,6 +33,7 @@
 - [established-remote](https://github.com/yanirs/established-remote)
 - [RemoteLeaf](https://remoteleaf.com/whoishiring)
 - [himalayas](https://himalayas.app/jobs)
+- [Fractional Jobs](https://www.fractionaljobs.io/)
 
 #### Working Remotely
 - [NomadList](https://nomadlist.com/) - also lists working locations within a given city
